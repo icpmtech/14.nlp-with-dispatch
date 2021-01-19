@@ -1,0 +1,24 @@
+Label	Weight	Text
+l_covid19	1	live status of covid19 portugal
+l_covid19	1	portugal
+l_covid19	1	current status of covid19 portugal
+None	1	book a restaurant
+q_sample_qna	1	Receber encomendas de outros países é um risco
+q_sample_qna	1	Quais os sinais e sintomas associados à COVID-19
+q_sample_qna	1	As profissionais de saúde grávidas correm maior risco de resultados adversos se cuidarem de pacientes com COVID-19
+q_sample_qna	1	Como é que as pessoas podem ajudar a acabar com o estigma relacionado com o COVID-19
+q_sample_qna	1	O que se recomenda a quem tem que andar de metro/autocarro
+q_sample_qna	1	Quanto tempo o vírus persiste numa superfície
+q_sample_qna	1	Como fazer quando os clientes, devido ao teor do serviço prestado, não podem usar máscara (por exemplo, tratamentos de rosto, cortar a barba, comer, etc)
+q_sample_qna	1	Quais são os grupos considerados de risco para a COVID-19
+q_sample_qna	1	Que cuidados devo ter se estiver em isolamento
+q_sample_qna	1	O que é o Novo Coronavírus
+q_sample_qna	1	O que deve ter em conta os outros membros da casa
+q_sample_qna	1	Onde posso fazer o teste
+q_sample_qna	1	O que é a quarentena (“isolamento profilático”) e o isolamento
+q_sample_qna	1	Qual a diferença entre epidemia e pandemia
+q_sample_qna	1	O que quer dizer "transmissão comunitária"
+q_sample_qna	1	Antes do aparecimento de sintomas, a pessoa pode transmitir a infeção
+q_sample_qna	1	O que é a COVID-19
+q_sample_qna	1	O SARS-CoV-2 pode ser transmitido através das fezes
+q_sample_qna	1	Quem está em risco de doença por COVID-19

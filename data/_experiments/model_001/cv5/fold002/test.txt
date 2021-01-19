@@ -1,0 +1,24 @@
+Label	Weight	Text
+l_covid19	1	world covid19
+l_covid19	1	current status of covid19 world
+l_covid19	1	today status
+None	1	winter is coming
+q_sample_qna	1	Qual a situação atual e o risco em Portugal da COVID-19
+q_sample_qna	1	Parar de fumar diminui o risco de contrair a COVID-19
+q_sample_qna	1	O clima quente vai parar o surto de COVID-19
+q_sample_qna	1	Quando é recomendado o uso de máscara, esta pode ser substituída por viseira
+q_sample_qna	1	Há uma temperatura mínima para lavar a roupa quando há um caso confirmado de COVID-19 em casa
+q_sample_qna	1	As mulheres grávidas são mais suscetíveis à infeção ou têm maior risco de doenças graves, morbidade ou mortalidade com o COVID-19, em comparação com o público em geral
+q_sample_qna	1	COVID-19 é o mesmo que o SARS-CoV-2
+q_sample_qna	1	Qual é a origem do Novo Coronavírus
+q_sample_qna	1	Deixei de fumar e estou em risco de recair. O que devo fazer
+q_sample_qna	1	Se estiver em isolamento, posso receber pessoas em casa
+q_sample_qna	1	O que é um Contacto Próximo
+q_sample_qna	1	SARS-CoV-2 é o mesmo que COVID-19
+q_sample_qna	1	As barreiras físicas, de materiais como acrílico, vidro ou cortinas, podem servir para reduzir o distanciamento de 2 metros
+q_sample_qna	1	Para servir alimentos ou bebida deve ser dada preferência aos materiais descartáveis ou pode continuar a usar-se loiça? É possível lavar a loiça sem máquina
+q_sample_qna	1	As pessoas que têm a doença ficam imunes
+q_sample_qna	1	O que é que as pessoas em risco de doença grave por COVID-19 devem fazer
+q_sample_qna	1	É necessário o internamento em todos os casos de COVID-19
+q_sample_qna	1	Como evitar o fumo ambiental em casa durante o período de confinamento
+q_sample_qna	1	Posso morrer de Covid 19

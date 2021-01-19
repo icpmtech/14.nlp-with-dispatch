@@ -1,0 +1,2068 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "Os coronavírus pertencem à família Coronaviridae que integra vírus que podem causar infeção no Homem, noutros mamíferos (por exemplo nos morcegos, camelos, civetas) e nas aves. Até à data, conhecemos oito coronavírus que infetam e podem causar doença no Homem. Normalmente, estas infeções afetam o sistema respiratório, podendo ser semelhantes às constipações comuns ou evoluir para uma doença mais grave, como a pneumonia. Dos coronavírus que infetam o Homem o SARS-CoV, o MERS-CoV e o SARS-CoV-2 saltaram a barreira das espécies, ou seja, estes vírus foram transmitidos ao Homem a partir de um animal reservatório ou hospedeiro desses vírus. O SARS-CoV originou uma epidemia em 2002-2003 e o MERS-CoV emergiu em 2012 e foi causando casos esporádicos de infeção humana ou pequenos clusters de casos de doença respiratória. O novo coronavírus, o SARS-CoV-2, que origina a doença designada COVID-19, foi identificado pela primeira vez em dezembro de 2019, na China.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O que são os Coronavírus?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 2,
+      "answer": "O novo coronavírus, designado SARS-CoV-2, foi identificado pela primeira vez em dezembro de 2019 na China, na cidade de Wuhan. Este novo agente nunca tinha sido identificado anteriormente em seres humanos. A fonte da infeção é ainda desconhecida. \n\nAinda está em investigação a via de transmissão. A transmissão pessoa a pessoa foi confirmada e já existe infeção em vários países e em pessoas que não tinham visitado o mercado de Wuhan. A investigação prossegue.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O que é o Novo Coronavírus?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 3,
+      "answer": "COVID-19 é a designação dada pela Organização Mundial da Saúde para identificar a doença provocada pelo novo coronavírus SARS-CoV-2. Este novo coronavírus foi identificado pela primeira vez em dezembro de 2019 na China, na cidade de Wuhan. Os casos iniciais da doença COVID-19 foram associados a um mercado em Wuhan (Wuhan’s Huanan Seafood Wholesale Market). O mercado foi encerrado a 1 de janeiro de 2020, mas a doença foi progredindo desencadeando uma epidemia mundial ou pandemia.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O que é a COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 4,
+      "answer": "SARS-CoV-2 é o nome do novo vírus e significa Severe Acute Respiratory Syndrome (Síndrome Respiratória Aguda Grave) – Coronavírus – 2.\n\nCOVID-19 (Coronavirus Disease) é o nome da doença e significa Doença por Coronavírus, fazendo referência ao ano em que foi descoberta, em 2019.\n\nExiste outro coronavírus que causa uma Síndrome Respiratória Aguda Grave, que foi identificado em 2002, este é chamado SARS-CoV por isso o Novo Coronavírus é designado por SARS-CoV-2.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "SARS-CoV-2 é o mesmo que COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 5,
+      "answer": "Supõe-se que o SARS-CoV-2 tenha sido introduzido na espécie humana por transmissão zoonótica, ou seja, a partir de uma espécie animal. Vírus muito semelhantes foram identificados em morcegos e em pangolins, mas não é ainda claro o envolvimento destes animais na emergência do SARS-CoV-2 na espécie humana. As investigações continuam no sentido de esclarecer este processo para que melhor nos possamos defender de novas introduções.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Qual é a origem do Novo Coronavírus?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 6,
+      "answer": "Sim. Em anos anteriores foram identificados alguns coronavírus que provocaram surtos e infeções respiratórias graves em humanos. Exemplos disto foram:\n\n • entre 2002 e 2003 a síndrome respiratória aguda grave (infeção provocada pelo coronavírus SARS-CoV);\n\n • em 2012 a síndrome respiratória do Médio Oriente (infeção provocada pelo coronavírus MERS-CoV).",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Já houve algum surto com Coronavírus em anos anteriores?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 7,
+      "answer": "Face a esta ameaça de Saúde Pública, foram definidas fases de resposta que incluem três níveis e seis subníveis, de acordo com a avaliação de risco para COVID-19 e o seu impacto para Portugal. Atualmente, Portugal encontra-se na fase de Mitigação, na qual há transmissão local em ambiente fechado, bem como transmissão comunitária.\n\nA 19 de março de 2020, foi declarado estado de emergência, como consequência da evolução da pandemia em Portugal. A avaliação de risco encontra-se em atualização permanente.\n\nA Direção-Geral da Saúde (DGS) emite comunicados diários com o sumário da informação e recomendações que pode encontrar neste microsite dedicado ao COVID-19 (https://covid19.min-saude.pt/). O Centro Europeu de Prevenção e Controlo das Doenças (ECDC) disponibiliza no seu site as informações de contexto europeu (https://www.ecdc.europa.eu/en) e a Organização Mundial da Saúde o ponto da situação a nível mundial (https://www.who.int/emergencies/diseases/novel-coronavirus-2019).",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Qual a situação atual e o risco em Portugal da COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 8,
+      "answer": "Os sinais e sintomas da COVID-19 variam em gravidade, desde a ausência de sintomas (sendo assintomáticos) até febre (temperatura ≥ 38.0ºC), tosse, dor de garganta, cansaço e dores musculares e, nos casos mais graves, pneumonia grave, síndrome respiratória aguda grave, septicémia, choque sético e eventual morte.\n\nOs dados mostram que o agravamento da situação clínica pode ocorrer rapidamente, geralmente durante a segunda semana da doença.\n\nRecentemente, foi também verificada anosmia (perda do olfato) e em alguns casos a perda do paladar, como sintoma da COVID-19. Existem evidências da Coreia do Sul, China e Itália de que doentes com COVID-19 desenvolveram perda parcial ou total do olfato, em alguns casos na ausência de outros sintomas.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Quais os sinais e sintomas associados à COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 9,
+      "answer": "80% dos casos de COVID-19 apresentam doença ligeira, isto é, sintomas ligeiros, nomeadamente, febre, rinorreia (pingo no nariz), cefaleia (dores de cabeça) e mialgias (dores no corpo).\n\nApenas 15% dos casos apresentam um quadro grave, com pneumonia, dificuldade respiratória, com necessidade de internamento e 5% podem eventualmente precisar de cuidados intensivos com necessidade de ventilação.\n\nA maioria dos óbitos são verificados nas pessoas mais idosas e com outras comorbilidades (outras doenças crónicas).",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Qual é a percentagem de doença ligeira e grave por COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 10,
+      "answer": "Nem todos os casos confirmados de COVID-19 necessitam de internamento, desde que apresentem um quadro clínico ligeiro e estável, tenham condições para permanecer em casa e esteja garantido o acompanhamento da equipa de saúde no domicílio.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "É necessário o internamento em todos os casos de COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 11,
+      "answer": "Não. Embora os vírus que causam a COVID-19 e a gripe sejam transmitidos de pessoa para pessoa e possam causar sintomas semelhantes, os dois vírus são muito diferentes e não se comportam da mesma maneira.\n\nA doença COVID-19 é causada por um novo vírus que se designa SARS-CoV-2 e a gripe é causada pelo vírus influenza que circula na população há muitas centenas de anos. Ao contrário da gripe, para a COVID-19 a população mundial não apresenta qualquer tipo de anticorpos protetores ou imunidade. Desta forma, toda a população é suscetível à doença. Enquanto que para a gripe existe uma vacina e antivirais específicos para o tratamento, para a COVID-19 ainda se encontram em desenvolvimento.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "A COVID-19 é o mesmo que gripe?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 12,
+      "answer": "Uma epidemia corresponde ao aumento considerável do número de casos de determinada doença, em várias regiões ou países, num determinado período de tempo.\n\nUma pandemia é a disseminação mundial de uma doença, que se espalhou por diferentes continentes, afetando geralmente um grande número de pessoas, com transmissão sustentada e na comunidade. Na maioria das vezes está associada a uma grande disrupção social e coloca sobre enorme pressão os serviços de saúde a nível global.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Qual a diferença entre epidemia e pandemia?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 13,
+      "answer": "A quarentena (“isolamento profilático”) e o isolamento são medidas de afastamento social essenciais em Saúde Pública. São especialmente utilizadas em resposta a uma epidemia e pretendem proteger a população pela quebra da cadeia de transmissão entre pessoas.\n\nA diferença entre a quarentena (“isolamento profilático”) e o isolamento parte do estado de doença da pessoa que se quer em afastamento social.\n\nQuarentena é utilizada em pessoas que se pressupõe serem saudáveis, mas possam ter estado em contacto com um doente confirmado de COVID-19.\n\nIsolamento é a medida utilizada em pessoas doentes, para que através do afastamento social não contagiem outros cidadãos.\n\nEstas medidas de afastamento social são das mais efetivas para quebrar as cadeias de transmissão, e por isso utilizadas pelas Autoridades de Saúde para minimizar a transmissão da COVID-19.\n\n**TRANSMISSÃO DA DOENÇA**",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O que é a quarentena (“isolamento profilático”) e o isolamento?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 14,
+      "answer": "A COVID-19 transmite-se pessoa-a-pessoa por contacto próximo com pessoas infetadas pelo SARS-CoV-2 (transmissão direta), ou através do contacto com superfícies e objetos contaminados (transmissão indireta).\n\nA transmissão por contacto próximo ocorre principalmente através de gotículas que contêm partículas virais que são libertadas pelo nariz ou boca de pessoas infetadas, quando tossem ou espirram, e que podem atingir diretamente a boca, nariz e olhos de quem estiver próximo.\n\nAs gotículas podem depositar-se nos objetos ou superfícies que rodeiam a pessoa infetada e, desta forma, infetar outras pessoas quando tocam com as mãos nestes objetos ou superfícies, tocando depois nos seus olhos, nariz ou boca.\n\nExistem também evidências sugerindo que a transmissão pode ocorrer de uma pessoa infetada cerca de dois dias antes de manifestar sintomas.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Como se transmite?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 15,
+      "answer": "Atualmente, estima-se que o período de incubação da doença (tempo decorrido desde a exposição ao vírus até ao aparecimento de sintomas) seja entre 1 e 14 dias.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Qual é o período de incubação?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 16,
+      "answer": "Transmissão comunitária significa que o vírus circula na comunidade sem que seja possível identificar a origem de todas as cadeias de transmissão.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O que quer dizer “transmissão comunitária”?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 17,
+      "answer": "A pessoa pode transmitir a infeção cerca de um a dois dias antes do aparecimento dos sintomas, no entanto, a pessoa é mais infeciosa durante o período sintomático, mesmo que os sintomas sejam leves e muito inespecíficos.\n\nEstima-se que o período infecioso dure de 7 a 12 dias em casos moderados e até duas semanas, em média, em casos graves.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Antes do aparecimento de sintomas, a pessoa pode transmitir a infeção?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 18,
+      "answer": "Não. Os sintomas de COVID-19 são semelhantes nas crianças e nos adultos. As crianças mostram, de uma forma geral, sintomas mais ligeiros e parecem registar, em proporção, menos casos de doença. Os sintomas relatados em crianças são inicialmente idênticos às constipações, como febre, corrimento nasal e tosse. Nalguns casos, foram também reportados vómitos e diarreia. Ainda não se sabe se algumas crianças podem estar em maior risco de doenças graves, por exemplo, crianças com condições médicas subjacentes e necessidades especiais de cuidados de saúde. Há muito mais a aprender sobre como a doença afeta as crianças e estão em curso investigações nesse sentido.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "s sintomas de COVID-19 são diferentes nas crianças e nos adultos?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 19,
+      "answer": "De acordo com a evidência científica disponível à data, ainda não é possível confirmar se as pessoas infetadas com o SARS-CoV-2 desenvolvem imunidade protetora. O organismo humano pode ir ganhando anticorpos após a infeção e desenvolvimento da doença.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "As pessoas que têm a doença ficam imunes?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 20,
+      "answer": "O risco de transmissão por SARS-CoV-2 a partir das fezes de uma pessoa infetada parece ser reduzido. Embora esta seja uma via de excreção do vírus, não parece ser uma via preferencial de transmissão.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O SARS-CoV-2 pode ser transmitido através das fezes?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 21,
+      "answer": "Atualmente, não há evidência que suporte a transmissão do SARS-CoV-2 pelos alimentos.\n\nPorém, aplicando o princípio da precaução, a manutenção e o reforço das boas práticas de higiene e segurança alimentar durante a manipulação, preparação e coinfecção dos alimentos é recomendada.\n\nAssumindo o princípio da precaução, a OMS publicou no seu site algumas recomendações relativas às boas práticas de higiene e segurança alimentar assim como, a nível nacional, a Autoridade de Segurança Alimentar e Económica (ASAE).\n\nDestas orientações relativas à preparação, confeção e consumo de alimentos, destaca-se o reforço das seguintes boas práticas de higiene:\n\n*   Lavagem frequente e prolongada das mãos (com água e sabão durante 20 segundos), seguida de secagem apropriada evitando a contaminação cruzada (por exemplo fechar a torneira com um toalhete de papel ao invés da mão que a abriu enquanto suja);\n\n*   Desinfeção apropriada das bancadas de trabalho e das mesas com produtos apropriados;\n\n*   Evitar a contaminação entre comida crua e cozinhada;\n\n*   Cozinhar e “empratar” a comida a temperaturas apropriadas e lavar adequadamente os alimentos crus;\n\n*   Evitar partilhar comida ou objetos entre pessoas durante a sua preparação, confeção e consumo.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O COVID-19 pode ser transmitido através de alimentos, incluindo os refrigerados e congelados?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 22,
+      "answer": "O vírus pode sobreviver em superfícies durante horas ou até dias, se estas superfícies não forem limpas e desinfetadas com frequência.\n\nO tempo que o vírus persiste nas superfícies pode variar sob diferentes condições (por exemplo, tipo de superfície, temperatura ou humidade do ambiente e a carga viral inicial que originou a exposição). Estudos recentes mostram que o SARS-CoV-2 se pode manter viável em superfícies como plástico ou metal por um período máximo de cerca de 72 horas e em aerossóis por um período máximo de 3h. Em superfícies mais porosas como cartão, o SARS-CoV-2 pode manter-se viável por um período de 24h.\n\nNa nossa própria casa ou em espaços públicos a frequência de limpeza deve ser aumentada, precisamente para que não haja acumulação de vírus nas superfícies. Deve utilizar-se detergente e desinfetante comum de uso doméstico (por exemplo: lixívia ou álcool).",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Quanto tempo o vírus persiste numa superfície?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 23,
+      "answer": "O dinheiro muda de mãos centenas ou até milhares de vezes durante a circulação, encontrando-se entre os objetos que, se for contaminado com vírus, ou outros microorganismos (como por exemplo, bactérias) pode servir de veículo de transmissão. Não será, no entanto, uma forma de transmissão comum da COVID-19. A higiene das mãos quando se manipula o dinheiro é uma boa prática que, independentemente do atual contexto de pandemia, deve ser sempre aplicada.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O dinheiro é um veículo de transmissão da COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 24,
+      "answer": "Não. O risco de infeção por uma encomenda preparada e transportada do estrangeiro para Portugal é muito reduzido. Ainda que uma pessoa infetada com SARS-CoV-2 possa manusear um produto incluído numa encomenda, ou a sua embalagem, a probabilidade de ser infetado após esse produto ter sido exposto a condições atmosféricas e de transporte tão diferentes em termos de temperatura e humidade é muito reduzido.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Receber encomendas de outros países é um risco?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 25,
+      "answer": "De momento, não há evidência de que a propagação da COVID-19 irá diminuir quando o clima ficar mais quente.\n\nAinda não é conhecido de que forma o clima ou a temperatura afetam a propagação do SARS-CoV-2.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O clima quente vai parar o surto de COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 26,
+      "answer": "Sim. Os ecrãs e os teclados devem ser limpos frequentemente, de preferência com toalhetes de limpeza e desinfeção rápida à base de álcool ou outro desinfetante com ação contra o vírus (ação virucida).",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Devo desinfetar tablets, smartphones e computadores?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 27,
+      "answer": "Se a pessoa tiver sintomas de COVID-19 ou for um caso confirmado, a roupa deve ser lavada em casa na máquina, a pelo menos 60-70ºC, mas pode ir até os 90ºC (ou seja, à temperatura mais elevada, que a roupa puder suportar).\n\nA roupa que não puder ser lavada a quente, deve ser lavada com ciclo de água morna (30-40ºC) e desinfetada de seguida com um ciclo desinfetante, apropriado para roupa branca ou de cor, consoante o tipo de roupa a lavar.\n\nSe não tiver máquina de lavar, lave as suas roupas com água quente com detergente e desinfete de seguida com o desinfetante apropriado para a roupa.\n\n**TRATAMENTO E VACINA**",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Há uma temperatura mínima para lavar a roupa quando há um caso confirmado de COVID-19 em casa?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 28,
+      "answer": "O tratamento para a infeção por este novo coronavírus é dirigido aos sinais e sintomas que os doentes apresentam e tem como objetivo proporcionar alívio e maior conforto aos doentes.\n\nÀ data, considerando o conhecimento científico atual e as recomendações da OMS, encontram-se em investigação, algumas estratégias terapêuticas apontadas como potenciais candidatos terapêuticos.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Qual é o tratamento?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 29,
+      "answer": "Atualmente não existe vacina que previna a infeção por SARS-CoV-2. Sendo um vírus recentemente identificado, estão ainda em curso investigações em diversos países para o desenvolvimento de uma vacina com eficácia comprovada e que respeite os requisitos necessários de segurança.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Existe uma vacina?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 30,
+      "answer": "Não, os antibióticos são dirigidos a bactérias, não tendo efeito contra vírus. A COVID-19 é provocada por um vírus, o SARS-CoV-2, e, como tal, os antibióticos não são efetivos na prevenção ou tratamento. O uso indevido e sem indicação médica de antibióticos poderá contribuir para o aumento das resistências a antimicrobianos (antibióticos) com efeito negativo para a saúde individual e coletiva.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Os antibióticos são efetivos a prevenir e tratar a COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 31,
+      "answer": "A lista de áreas dedicadas para COVID-19 , encontra-se aqui: [https://covid19.min-saude.pt/areas-dedicadas-covid-19/](https://covid19.min-saude.pt/areas-dedicadas-covid-19/)\n\nA lista de laboratórios encontra-se aqui: [https://covid19.min-saude.pt/laboratorios-referenciados/](https://covid19.min-saude.pt/laboratorios-referenciados/)\n\n**MEDIDAS DE PREVENÇÃO**",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Onde encontrar a lista de áreas dedicadas para COVID-19, bem como os laboratórios referenciados (em atualização permanente)?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 32,
+      "answer": "As medidas de higiene e etiqueta respiratória têm como objetivo reduzir a exposição e transmissão da doença e são:\n\n*   Medidas de etiqueta respiratória: tapar o nariz e a boca quando espirrar ou tossir, com um lenço de papel ou com o antebraço, nunca com as mãos, e deitar sempre o lenço de papel no lixo;\n\n*   Lavar as mãos frequentemente. Deve lavá-las sempre que se assoar, espirrar, tossir ou após contacto direto com pessoas doentes. Deve lavá-las durante 20 segundos (o tempo que demora a cantar os “Parabéns”) com água e sabão ou com solução à base de álcool a 70%;\n\n*   Evitar contacto próximo com pessoas com infeção respiratória;\n\n*   Evitar tocar na cara com as mãos;\n\n*   Evitar partilhar objetos pessoais ou comida em que tenha tocado.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O que são medidas de higiene e etiqueta respiratória?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 33,
+      "answer": "O vírus não tem nacionalidade, idade ou género, por isso todos corremos o risco de contrair a COVID-19.\n\nAinda assim, as pessoas que correm maior risco de doença grave por COVID-19 são os idosos e pessoas com doenças crónicas (ex.: doenças cardíacas, diabetes e doenças pulmonares).",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Quem está em risco de doença por COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 34,
+      "answer": "Os grupos de Risco para COVID 19 incluem:\n\n*   Pessoas idosas;\n\n*   Pessoas com doenças crónicas – doença cardíaca, pulmonar, diabetes, neoplasias ou hipertensão arterial, entre outras;\n\n*   Pessoas com compromisso do sistema imunitário (a fazer tratamentos de quimioterapia, tratamentos para doenças auto-imunes (artrite reumatoide, lúpus, esclerose múltipla ou algumas doenças inflamatórias do intestino), infeção VIH/sida ou doentes transplantados.\n\n*   Ser asmático é uma condição de risco para a infeção por COVID-19?\n\n Quem tem asma é considerado um grupo de risco. Por isso, aconselham-se as medidas de isolamento social preconizadas pela Direção-Geral da Saúde:\n\n · Mantenha-se em casa. Só deve sair de casa se for estritamente necessário. Evite o contacto próximo com pessoas;\n\n · Proteja-se, por ser uma pessoa com maior risco de infeção. Deve manter sempre a terapêutica que cumpre regularmente;\n\n · Cumpra as regras de higiene e etiqueta respiratória;\n\n · Em caso de agravamento, iniciar a medicação SOS que usa em crises e contactar a SNS24.\n\n · Preste atenção aos sinais e sintomas. Se ficar doente, permaneça em casa e ligue para o SNS24.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Quais são os grupos considerados de risco para o COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 35,
+      "answer": "De acordo com as medidas que vão vigorar durante o Estado de Emergência, as pessoas que integram grupos de risco (de idade superior a 70 anos ou com doenças crónicas) ficam abrangidas por um “dever especial de proteção”. Estas medidas estipulam que só devem sair de casa em circunstâncias excecionais e necessárias.\n\nDeve:\n\no Manter-se em casa. Só deve sair de casa se for estritamente necessário. Evite o contacto próximo com pessoas;\n\no Cumpra as regras de higiene e etiqueta respiratória;\n\no Proteja-se, por ser uma pessoa com maior risco de infeção. Deve manter sempre a terapêutica que cumpre regularmente;\n\no Preste atenção ao eventual aparecimento de sinais ou sintomas. Se ficar doente, permaneça em casa e ligue para o SNS24 (808 24 24 24).\n\n• Quanto tempo pode durar a doença?\n\nA COVID-19 pode durar até cinco semanas. No entanto, a duração depende de cada doente, do seu sistema imunitário e de haver ou não doenças crónicas associadas, que alteram o nível de risco.\n\n• Tenho de usar máscara para me proteger?\n\nNão está indicado o uso de máscara para proteção individual, exceto nas seguintes situações:\n\n*   Suspeitos de infeção ou com doença confirmada por COVID-19;\n\n*   Profissionais de saúde e pessoas que prestem cuidados a doentes suspeitos de COVID-19;\n\n*   Imunocomprometidos.\n\nA Direção-Geral da Saúde não recomenda o uso de máscara de proteção para pessoas que não apresentam sintomas (assintomáticas). O uso de máscara de forma incorreta pode aumentar o risco de infeção. Como o uso de uma máscara pode ser desconfortável, o desconforto pode fazer com que as pessoas toquem o rosto com mais frequência e esse gesto pode contribuir para a contaminação. Pode, também, dar uma “falsa sensação de segurança” e as medidas básicas de higiene das mãos podem ser negligenciadas assim como a medida mais eficaz de manter a distância recomendada entre as pessoas (pelo menos 1 metro de distância).",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O que é que as pessoas em risco de doença grave por COVID-19 devem fazer?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 36,
+      "answer": "Colocar a máscara:\n\n*   Lave as mãos com água e sabão ou com uma solução à base de álcool (antes de colocar a máscara);\n\n*   Colocar a máscara na posição correta. A borda dobrável deve estar para cima e a parte colorida para fora;\n\n*   Segurar a máscara pelas linhas de suporte/elásticos e adaptar a cada orelha;\n\n*   Ajustar a máscara junto ao nariz e queixo, sem tocar na face da máscara.\n\nRetirar a máscara:\n\n*   Lavar as mãos com água e sabão ou solução à base de álcool;\n\n*   Retirar a máscara apenas segurando nas linhas de suporte/elásticos;\n\n*   Manter a máscara longe do rosto e da roupa, para evitar tocar em superfícies potencialmente contaminadas da máscara;\n\n*   Colocar a máscara no recipiente adequado e lavar novamente as mãos.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Como devo colocar e retirar uma máscara?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 37,
+      "answer": "Não existem estudos que confirmem esta questão. No entanto, se a pessoa fumadora já tiver problemas respiratórios ou cardíacos, isso pode contribuir para o agravamento da situação clínica da pessoa, caso se infete com COVID-19. Um fumador de longa data já apresenta alterações pulmonares que podem estar associados a quadros de pneumonia em caso de infeção por COVID-19.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Os fumadores estão em maior risco de doença grave por COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 38,
+      "answer": "A recuperação da capacidade pulmonar não é imediata. Mas qualquer pessoa que decide deixar de fumar deve fazê-lo porque fará sempre a diferença (cancro, AVC, enfarte agudo do miocárdio, DPOC e outras doenças crónicas) e terá sempre benefícios para a sua saúde – a curto e longo prazo.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Um fumador que deixe os hábitos tabagísticos melhora a sua capacidade de resposta à infeção por COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 39,
+      "answer": "Lave muito bem as mãos antes e enquanto está a confecionar as refeições. Tenha o cuidado de lavar adequadamente os alimentos crus e cozinhar e empratar a comida a temperaturas adequadas.\n\n Não partilhe comida ou objetos entre pessoas durante a sua preparação, confeção e consumo. Em todos os momentos, adote as medidas de etiqueta respiratória. Evite a contaminação entre comida crua e cozinhada.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Que cuidados devo ter na preparação e confeção de alimentos?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 40,
+      "answer": "Se vai viajar em transportes, o que se recomenda é que:\n\n · Garanta uma distância mínima das outras pessoas;\n\n · Se posicione costas com costas face a outras pessoas\n\n · Utilize máscara APENAS se tiver problemas de saúde.\n\n · Evite levar as mãos à boca, olhos ou nariz;\n\n · Vire a cara para o lado, se alguém estiver a tossir à sua frente e peça à pessoa que está a tossir que o faça para um lenço ou para o braço ou paras o cotovelo;\n\n · Desinfete as suas mãos com uma solução à base de álcool ou lave as mãos assim que possível.\n\n · Se o transporte estiver lotado pode, sempre que possível, aguardar pelo próximo.\n\n**VIAGENS**",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O que se recomenda a quem tem que andar de metro/autocarro?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 41,
+      "answer": "A Organização Mundial da Saúde não recomenda restrições de viagens, comércio ou de produtos, a países com surto de COVID-19. As proibições de viagem para áreas afetadas ou negação de entrada de passageiros provenientes de áreas afetadas geralmente não são eficazes para impedir a importação de casos.\n\nNo entanto, existem áreas do globo com transmissão comunitária ativa em que o risco de contágio é elevado. É prudente que os viajantes doentes atrasem ou evitem viajar para as áreas afetadas, em particular idosos e pessoas com doenças crônicas ou condições de saúde subjacentes. \n\nA Direção-Geral da Saúde encontra-se a acompanhar o desenvolvimento da situação global em articulação com o Ministério dos Negócios Estrangeiros. Para reforço da informação e assistência aos viajantes portugueses, o Ministério dos Negócios Estrangeiros criou a linha de apoio +351 217 929 755 (se fizer sentido pdf em anexo) e o email covid19@mne.pt, direcionado a situações de dificuldade de regresso ao território nacional ou necessidade de serviços consulares de locais, em países condicionados por medidas de restrição à circulação e atividade relacionadas com o COVID-19. \n\nNo acompanhamento da atual situação de emergência e após a aplicação de medidas de quarentena a todo o território, o governo português decidiu a suspensão de voos para fora e de fora da União Europeia a partir do dia 19, com exceções.\n\nDeverá assim acompanhar a atualização de informação disponibilizada também pelo Ministério dos Negócios Estrangeiros recorrendo há área dos conselhos aos viajantes [https://www.portaldascomunidades.mne.pt/pt/conselhos-aos-viajantes](https://www.portaldascomunidades.mne.pt/pt/conselhos-aos-viajantes)), às recomendações gerais [https://www.portaldascomunidades.mne.pt/pt/alertas/coronavirus-covid-23](https://www.portaldascomunidades.mne.pt/pt/alertas/coronavirus-covid-23)) e aos avisos [https://www.portaldascomunidades.mne.pt/pt/alertas/coronavirus-covid-22](https://www.portaldascomunidades.mne.pt/pt/alertas/coronavirus-covid-22)).\n\nPode ainda esclarecer algumas dúvidas gerais sobre viagens e vistos ([https://www.vistos.mne.pt/pt/destaques/perguntas-frequentes-sobre-viagens-e-covid19](https://www.vistos.mne.pt/pt/destaques/perguntas-frequentes-sobre-viagens-e-covid19))\n\nCaso tenha de viajar ou esteja fora de Portugal, registe-se na aplicação móvel gratuita “Registo Viajante”, disponível para dispositivos Android e IOS, permitindo ser imediatamente localizado e contactado em caso de emergência, como catástrofes naturais, acidentes ou atentados. Pode igualmente registar-se no Formulário Registo Viajante. \n\nNo regresso a território nacional devem ser observadas as informações de reposição de controlo de fronteiras e restrições à entrada em Portugal [(https://www.portaldascomunidades.mne.pt/pt/alertas/covid-19-reposicao-de-controlo-nas-fronteiras-e-restricoes-a-entrada-em-portugal)](https://www.portaldascomunidades.mne.pt/pt/alertas/covid-19-reposicao-de-controlo-nas-fronteiras-e-restricoes-a-entrada-em-portugal)\n\nPara Portugal Continental não está em vigor presentemente, a obrigatoriedade de isolamento profilático à chegada, sendo de momento apenas uma recomendação tendo em conta os esforços de combate à pandemia COVID-19. Contudo essa obrigatoriedade verifica-se nas Regiões Autónomas dos Açores e Madeira.\n\nÀs pessoas regressadas de uma área afetada aconselha-se, nos 14 dias seguintes estar atentas, ao surgimento de febre, tosse e eventual dificuldade respiratória.\n\n Devem ainda medir a temperatura corporal duas vezes por dia e registar os valores e verificar se alguma das pessoas com quem convive de perto desenvolvem os sintomas referidos. Caso apareça alguns dos sintomas no próprio ou nos seus conviventes, não se devem deslocar aos serviços de saúde, mas ligar para o SNS24 – 808 24 24 24, e seguir as orientações que lhes forem dadas, partilhando também o seu histórico de viagem. \n\nDeve ainda consultar as Orientações e Informações da DGS sobre viagens [https://covid19.min-saude.pt/orientacoes/](https://covid19.min-saude.pt/orientacoes/)\n\n**GRUPOS DE RISCO**",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Devo viajar?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 42,
+      "answer": "Sim. Qualquer pessoa com diabetes, independentemente da sua idade, tem sempre um maior risco, se ficar doente com COVID-19, embora o risco seja sempre superior nos mais idosos.\n\n Uma criança ou jovem com diabetes tipo 1, pela sua doença, apresenta um risco superior ao de uma criança ou jovem saudável.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "As crianças e jovens diabéticos tipo 1 são considerados de risco?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 43,
+      "answer": "Neste momento não se recomenda que as crianças estejam com os avós por serem considerados um grupo vulnerável. Apesar de as crianças serem menos afetadas por esta doença e de terem sintomas mais ligeiros, podem transmitir o vírus a outros.\n\n É preferível que crianças e avós vão falando através de redes sociais, chats e por telemóvel durante esta fase de transmissão da doença.\n\n**ISOLAMENTO**",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Posso deixar as crianças com os avós?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 44,
+      "answer": "Deve permanecer em casa. Não deve dirigir-se ao trabalho, à escola ou a espaços públicos. Permaneça numa divisão própria e evite contactar com outros em espaços comuns. Não partilhe pratos, copos, utensílios de cozinha, lençóis ou outros objetos pessoais. \n\n Quando estiver com outras pessoas, utilize máscara. Cumpra as recomendações de lavagem das mãos e de etiqueta respiratória. Monitorize os sintomas e coloque os seus resíduos num saco próprio.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Que cuidados devo ter se estiver em isolamento?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 45,
+      "answer": "Deve ser evitado o contacto com a pessoa com sintomas, especialmente se pertencer aos grupos vulneráveis: idosos, doentes crónicos, imunossuprimidos e grávidas. Preferencialmente, deve ser uma única pessoa a cuidar de quem está doente. \n\n Após o contacto com o paciente ou com o seu espaço, lave as mãos com sabão e água ou com uma solução à base e álcool. Desinfete com frequência torneiras, interruptores e maçanetas das portas, especialmente se a pessoa doente usar espaços comuns.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "O que devem ter em conta os outros membros da casa?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 46,
+      "answer": "Não. Apenas deve frequentar a habitação quem coabitar com a pessoa com COVID-19. Em caso de necessidade de contacto urgente com alguém que não coabite com a pessoa em isolamento, o contacto deve ser feito por telefone. \n\n**O TABACO E A COVID-19**",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Se estiver em isolamento, posso receber pessoas em casa?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 47,
+      "answer": "Não existem estudos conclusivos. Contudo, é sabido que fumar diminui a imunidade e aumenta o risco de contrair infeções pulmonares bacterianas e virais, de gripe sazonal e de tuberculose, pelo que é expectável que esse risco aumentado também exista relativamente à COVID-19.\n\nPor outro lado, é possível que as pessoas que fumam ou usam cigarros de aquecimento ou eletrónicos sejam mais vulneráveis ao novo coronavirus (SARS-CoV-2) e à Covid-19, pois, durante o ato de fumar, os dedos, os cigarros ou os bocais eventualmente contaminados podem entrar em contacto com a boca, o que aumenta a possibilidade de transmissão do vírus. O uso de cachimbos de água (shisha), pode envolver a partilha de bocais, o que poderá facilitar, também, a transmissão do novo coronavirus.\n\nPara diminuir esse risco lave as mãos antes e depois de fumar, lave os bocais e desinfete os aparelhos de aquecimento ou os cigarros eletrónicos com uma solução à base de álcool após a compra e frequentemente após a utilização. Não partilhe cigarros ou equipamentos. Os bocais dos cachimbos de água nunca devem ser partilhados, devendo ser devidamente higienizados após a sua utilização.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "As pessoas que fumam ou usam cigarros de aquecimento ou eletrónicos têm maior risco de contrair a COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 48,
+      "answer": "Embora ainda nem tudo seja conhecido acerca da COVID-19, pessoas com idade mais avançada, patologias crónicas cardiovasculares, respiratórias ou diabetes apresentam maior risco de desenvolver complicações graves no caso de serem infetadas pelo novo coronavirus.\n\nAs pessoas fumadoras têm maior probabilidade de sofrer destas doenças em resultado da exposição ao fumo do tabaco. No caso de serem infetadas pelo novo coronavirus poderão apresentar maior risco de sofrer complicações graves, pois fumar lesa os tecidos pulmonares e aumenta a produção de muco a nível da árvore brônquica, o que contribui para aumentar a dificuldade respiratória. Por outro lado, fumar diminui a imunidade, tornando mais lenta e difícil a luta contra a infeção e a cura da doença.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "As pessoas que fumam têm maior risco de desenvolver complicações graves se contraírem a COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 49,
+      "answer": "Ainda não são conhecidos estudos nesta área. Contudo, deixar de fumar ou usar cigarros de aquecimento ou eletrónicos permite eliminar o manuseamento dos cigarros e o eventual toque dos dedos, eventualmente contaminados, na boca.\n\nPor outro lado, é possível que se consigam gerir melhor as condições de doença crónica preexistentes no caso de haver infeção, porque o abandono do tabaco tem um impacto positivo nos níveis de oxigénio no sangue, na redução da sintomatologia respiratória e no sistema cardiovascular, que vão melhorando com o passar do tempo. Gerir melhor as doenças crónicas pré-existentes pode aumentar a capacidade dos pacientes com COVID-19 para responderem melhor à infecção e reduzir o risco de complicações mais graves.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Parar de fumar diminui o risco de contrair a COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 50,
+      "answer": "Se é fumador, deixe de fumar. Neste período de mitigação da COVID-19 as consultas programadas de cessação tabágica foram substituídas, sempre que possível, por contactos telefónicos. Informe-se junto da sua unidade de saúde, ou do seu (sua) médico(a) ou enfermeiro(a) de família, sobre os apoios à cessação tabágica disponíveis nesta fase.\n\nPode também usar o seguinte guia de aconselhamento: 15 passos para deixar de fumar. https://www.dgs.pt/em-destaque/15-passos-para-deixar-de-fumar.aspx\n\nExistem diversas aplicações informáticas para telemóvel gratuitas que o poderão ajudar a deixar de fumar.\n\nCaso sinta muita vontade de fumar, poderá usar substitutos de nicotina (medicamentos de venda livre nas farmácias ou espaços de saúde) com duas finalidades: para deixar de fumar ou para diminuir ou substituir o número diário de cigarros fumados.\n\nEm geral, uma pastilha ou uma goma equivalem a um cigarro. Siga atentamente os conselhos do seu médico ou do seu farmacêutico e leia cuidadosamente as instruções de utilização.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Gostaria de deixar de fumar. Como posso obter apoio?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 51,
+      "answer": "Os períodos de stress podem aumentar o consumo de tabaco e a vontade de voltar a fumar em ex-fumadores.\n\nProcure gerir o stress sem aumentar o consumo de tabaco. Fumar mais não resolve a ansiedade e prejudica a sua saúde respiratória e cardiovascular.\n\nSe é um ex-fumador, é muito importante que não volte a fumar. Se está a usar cigarros eletrónicos ou de aquecimento para deixar de fumar, não volte a fumar tabaco convencional. Tente deixar de fumar qualquer produto com nicotina. Dessa forma vai melhorar a sua saúde respiratória e resistir melhor a um eventual risco de infeção.\n\nPense na sua saúde e proteja-se dos riscos da COVID-19.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Deixei de fumar e estou em risco de recair. O que devo fazer?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 52,
+      "answer": "Não fume dentro de casa.\n\nSe continuar a fumar cigarros convencionais ou outro tipo de tabaco durante o período de confinamento em casa, é importante que tenha consciência que o fumo ambiental ou as emissões dos cigarros de aquecimento ou eletrónicos são prejudiciais à sua saúde e à saúde de todos aqueles que partilham a sua habitação. “Quando alguém fuma, todos fumam à sua volta”.\n\nSe não conseguir deixar de fumar, fume na varanda ou no terraço, mantendo a porta de acesso ao interior da casa fechada, de modo a evitar que o fumo se espalhe para o seu interior. Se não tiver esta possibilidade, use um quarto com janela, fume para o exterior e mantenha a porta do quarto fechada. Escolha uma janela que não prejudique os moradores das habitações contíguas. Mantenha a casa bem arejada. Se possível, procure usar as pequenas saídas de casa, permitidas por lei, para fumar.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Como evitar o fumo ambiental em casa durante o período de confinamento?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 53,
+      "answer": "Sim, não deve partilhar com outras pessoas, quaisquer objetos de uso pessoal, incluindo cigarros, bocais dos cachimbos de água ou cigarros eletrónicos. A transmissão do vírus faz-se através das nossas mucosas (boca, olhos e nariz).\n\n**ESTIGMA**",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Há risco de transmissão do COVID-19 se partilhar cigarros, bocais de cachimbos de água ou cigarros eletrónicos?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 54,
+      "answer": "As pessoas podem estar preocupadas com amigos e familiares que vivem ou visitam áreas afetadas pelo COVID-19. O medo e a ansiedade podem levar ao estigma social, por exemplo, em relação a chineses ou outros asiáticos, ou a pessoas em quarentena. \n\nO estigma refere-se à discriminação em relação a um grupo de pessoas, um lugar ou uma nação. Este está associado à falta de conhecimento sobre o modo de transmissão da COVID-19, à necessidade de atribuir culpa, ao medo da doença e da possível morte e aos boatos e mitos disseminados. \n\nO estigma provoca sofrimento, aumentando o medo ou a raiva em relação a pessoas comuns, em vez de haver um foco na doença que está a causar o problema.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Porque culpam ou evitam pessoas e grupos devido ao COVID-19 (Estigmatização)?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 55,
+      "answer": "As pessoas podem combater o estigma e ajudar outras pessoas, fornecendo-lhes suporte social. O combate ao estigma pode ser feito através da aprendizagem e da partilha de factos sobre o COVID-19. \n\nDeve comunicar-se o facto de que os vírus não têm como alvos grupos raciais ou étnicos específicos, bem como o modo de transmissão do COVID-19.\n\n**GRAVIDEZ**",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Como é que as pessoas podem ajudar a acabar com o estigma relacionado com o COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 56,
+      "answer": "Nos trabalhos científicos publicados, não existe informação sobre a suscetibilidade de mulheres grávidas ao COVID-19. As grávidas sofrem alterações imunológicas e fisiológicas que as podem tornar mais suscetíveis a infeções respiratórias virais, incluindo o COVID-19. Durante a gravidez, as mulheres também podem estar em risco de doença grave, morbilidade ou mortalidade em comparação com a população em geral, como observado em casos de outras infeções relacionadas com coronavírus [incluindo coronavírus da síndrome respiratória aguda grave (SARS-CoV) e coronavírus da síndrome respiratória do Médio Oriente (MERS- CoV)] e outras infeções respiratórias virais, como a gripe (influenza).\n\nAs mulheres grávidas devem empenhar-se em ações preventivas habituais para evitar infeções, tais como lavar as mãos frequentemente e evitar as pessoas doentes, ou casos suspeitos que estejam sob vigilância. Devem respeitar a distância recomendada entre pessoas próximas (1 metro).",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "As mulheres grávidas são mais suscetíveis à infeção ou têm maior risco de doenças graves, morbidade ou mortalidade com o COVID-19, em comparação com o público em geral?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 57,
+      "answer": "Não temos informações sobre resultados adversos da gravidez em mulheres grávidas com COVID-19. Foi observada perda gestacional, incluindo aborto espontâneo e nado-morto, em casos de infeção por outros coronavírus [SARS-CoV e MERS-CoV] durante a gravidez. Sabe-se que a febre alta durante o primeiro trimestre da gravidez pode aumentar o risco de certos defeitos congénitos.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "As mulheres grávidas com COVID-19 têm risco aumentado de desfecho adverso na gravidez?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 58,
+      "answer": "As profissionais de saúde grávidas devem seguir as diretivas de avaliação de risco e controlo de infeção destinadas a profissionais de saúde expostos a pacientes com suspeita ou confirmação de COVID-19. A adesão às práticas recomendadas de prevenção e controle de infeção é uma parte importante da proteção de todos os profissionais de saúde em ambientes de saúde. As informações sobre COVID-19 na gravidez são muito limitadas; os serviços podem querer considerar a limitação da exposição da profissional de saúde grávida a pacientes com COVID-19 (confirmado ou suspeito), especialmente durante a execução de procedimentos de maior risco (por exemplo, procedimentos que geram a produção de partículas de aerossóis), se possível, com base na disponibilidade de pessoal.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "As profissionais de saúde grávidas correm maior risco de resultados adversos se cuidarem de pacientes com COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 59,
+      "answer": "Pensa-se que o vírus que causa o COVID-19 se espalha principalmente por contato próximo com uma pessoa infetada através de gotículas respiratórias. Ainda não se sabe se uma mulher grávida com COVID-19 pode transmitir o vírus que causa o COVID-19 ao feto ou ao recém-nascido por outras vias de transmissão vertical (antes, durante ou após o parto). No entanto, em séries limitadas de casos recentes de bebés nascidos de mães com COVID-19 publicados na literatura revista por pares, existem descritos dois casos com resultados positivos para a infeção por COVID-19, um recém-nascido nas primeiras 30h e o segundo nas 48 h, mas não é certo qual a via de contágio. Em estudos retrospetivos de uma série pequena de casos, o vírus não foi detetado em amostras de líquido amniótico, sangue do cordão ou leite materno. \n\nÉ limitada a informação disponível sobre a transmissão vertical relativamente a outros coronavírus (MERS-CoV e SARS-CoV), mas a transmissão vertical não foi relatada para essas infeções.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "As mulheres grávidas com COVID-19 podem transmitir o vírus ao feto ou ao recém-nascido (isto é, transmissão vertical)?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 60,
+      "answer": "Com base num número limitado de casos reportados, foram observadas complicações em crianças (por exemplo, parto prematuro) em bebés nascidos de mães infetadas com COVID-19 durante a gravidez. No entanto, não é claro que essas complicações estejam relacionadas com a infeção materna e, neste momento, o risco de complicações nas crianças não é conhecido. Tendo em conta que os dados disponíveis relativamente ao COVID-19 durante a gravidez são limitados, o conhecimentos das complicações relacionadas com outras infeções respiratórias virais podem fornecer algumas informações. Por exemplo, outras infeções virais respiratórias que ocorrem durante a gravidez, como a gripe, têm sido associadas a complicações neonatais, incluindo baixo peso ao nascer e prematuridade. Além disso, ter uma constipação ou gripe com febre alta no início da gravidez pode aumentar o risco de certas malformações congénitas. \n\nMulheres com outras infeções por coronavírus, SARS-CoV e MERS-CoV, durante a gravidez, têm tido bebés prematuros e/ou pequenos para a idade gestacional.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "As crianças nascidas de mães infetadas com COVID-19 durante a gravidez correm maior risco de terem complicações?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 61,
+      "answer": "No momento, não há informações sobre os efeitos a longo prazo na saúde nem para bebés com COVID-19 nem para os que estiveram expostos no útero ao COVID-19. Em geral, a prematuridade e o baixo peso ao nascer estão associados a complicações de saúde a longo prazo.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "Qual é o risco de que a existência do COVID-19 numa mulher grávida ou num recém-nascido possa ter efeitos a longo prazo na saúde e no desenvolvimento infantil que venham a requerer apoio clínico para além da infância?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 62,
+      "answer": "A transmissão de pessoa a pessoa por contato próximo com uma pessoa com COVID-19 confirmado ocorre principalmente através de gotículas respiratórias produzidas quando uma pessoa com infeção tosse ou espirra.\n\n Em séries limitadas de casos relatados até ao momento, não foi encontrada evidência de vírus no leite materno de mulheres com COVID-19. Não há informação disponível sobre a transmissão do vírus que causa o COVID-19 através do leite materno (isto é, se o vírus infecioso está presente no leite materno de uma mulher infetada).\n\nEm relatos limitados de mulheres lactantes infetadas com SARS-CoV, o vírus não foi detetado no leite; no entanto, foram detetados em pelo menos uma amostra de anticorpos contra SARS-CoV.",
+      "source": "https://covid19.min-saude.pt/perguntas-frequentes/",
+      "questions": [
+        "A doença materna com COVID-19 durante o período de aleitamento materno está associada a um risco potencial para uma criança que é amamentada?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T12:50:17.437+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 114,
+      "answer": "_Sim_",
+      "source": "Editorial",
+      "questions": [
+        "Posso morrer de Covid 19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-11T13:51:05.974+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 115,
+      "answer": "Os coronavírus pertencem à família Coronaviridae que integra vírus que podem causar infeção no Homem, noutros mamíferos (por exemplo nos morcegos, camelos, civetas) e nas aves. Até à data, conhecemos oito coronavírus que infetam e podem causar doença no Homem. Normalmente, estas infeções afetam o sistema respiratório, podendo ser semelhantes às constipações comuns ou evoluir para uma doença mais grave, como a pneumonia. Dos coronavírus que infetam o Homem o SARS-CoV, o MERS-CoV e o SARS-CoV-2 saltaram a barreira das espécies, ou seja, estes vírus foram transmitidos ao Homem a partir de um animal reservatório ou hospedeiro desses vírus. O SARS-CoV originou uma epidemia em 2002-2003 e o MERS-CoV emergiu em 2012 e foi causando casos esporádicos de infeção humana ou pequenos clusters de casos de doença respiratória. O novo coronavírus, o SARS-CoV-2, que origina a doença designada COVID-19, foi identificado pela primeira vez em dezembro de 2019, na China.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O que são os Coronavírus?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 116,
+      "answer": "O novo coronavírus, designado SARS-CoV-2, foi identificado pela primeira vez em dezembro de 2019 na China, na cidade de Wuhan. Este novo agente nunca tinha sido identificado anteriormente em seres humanos. A fonte da infeção é ainda desconhecida. \n\nAinda está em investigação a via de transmissão. A transmissão pessoa a pessoa foi confirmada e já existe infeção em vários países e em pessoas que não tinham visitado o mercado de Wuhan. A investigação prossegue.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O que é o Novo Coronavírus?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 117,
+      "answer": "SARS-CoV-2 é o nome do novo vírus e significa Severe Acute Respiratory Syndrome (Síndrome Respiratória Aguda Grave) – Coronavírus – 2.\n\nCOVID-19 (Coronavirus Disease) é o nome da doença e significa Doença por Coronavírus, fazendo referência ao ano em que foi descoberta, em 2019.\n\nExiste outro coronavírus que causa uma Síndrome Respiratória Aguda Grave, que foi identificado em 2002, este é chamado SARS-CoV por isso o Novo Coronavírus é designado por SARS-CoV-2.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "COVID-19 é o mesmo que o SARS-CoV-2?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 118,
+      "answer": "Supõe-se que o SARS-CoV-2 tenha sido introduzido na espécie humana por transmissão zoonótica, ou seja, a partir de uma espécie animal. Vírus muito semelhantes foram identificados em morcegos e em pangolins, mas não é ainda claro o envolvimento destes animais na emergência do SARS-CoV-2 na espécie humana. As investigações continuam no sentido de esclarecer este processo para que melhor nos possamos defender de novas introduções.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Qual é a origem do Novo Coronavírus?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 119,
+      "answer": "Sim. Em anos anteriores foram identificados alguns coronavírus que provocaram surtos e infeções respiratórias graves em humanos. Exemplos disto foram:\n\n• entre 2002 e 2003 a síndrome respiratória aguda grave (infeção provocada pelo coronavírus SARS-CoV);\n\n• em 2012 a síndrome respiratória do Médio Oriente (infeção provocada pelo coronavírus MERS-CoV).",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Já houve algum surto com Coronavírus em anos anteriores?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 120,
+      "answer": "Os sinais e sintomas da COVID-19 variam em gravidade, desde a ausência de sintomas (sendo assintomáticos) até febre (temperatura ≥ 38.0ºC), tosse, dor de garganta, cansaço e dores musculares e, nos casos mais graves, pneumonia grave, síndrome respiratória aguda grave, septicémia, choque sético e eventual morte.\n\nOs dados mostram que o agravamento da situação clínica pode ocorrer rapidamente, geralmente durante a segunda semana da doença.\n\nRecentemente, foi também verificada anosmia (perda do olfato) e em alguns casos a perda do paladar, como sintoma da COVID-19. Existem evidências da Coreia do Sul, China e Itália de que doentes com COVID-19 desenvolveram perda parcial ou total do olfato, em alguns casos na ausência de outros sintomas.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Quais os sinais e sintomas?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 121,
+      "answer": "Não. Os sintomas de COVID-19 são semelhantes nas crianças e nos adultos. As crianças mostram, de uma forma geral, sintomas mais ligeiros e parecem registar, em proporção, menos casos de doença. Os sintomas relatados em crianças são inicialmente idênticos às constipações, como febre, corrimento nasal e tosse. Nalguns casos, foram também reportados vómitos e diarreia. Ainda não se sabe se algumas crianças podem estar em maior risco de doenças graves, por exemplo, crianças com condições médicas subjacentes e necessidades especiais de cuidados de saúde. Há muito mais a aprender sobre como a doença afeta as crianças e estão em curso investigações nesse sentido.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Os sintomas de COVID-19 são diferentes nas crianças e nos adultos?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 122,
+      "answer": "De acordo com a evidência científica disponível à data, ainda não é possível confirmar se as pessoas infetadas com o SARS-CoV-2 desenvolvem imunidade protetora. O organismo humano pode ir ganhando anticorpos após a infeção e desenvolvimento da doença.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "As pessoas que têm a doença ficam imunes?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 123,
+      "answer": "Não. Embora os vírus que causam a COVID-19 e a gripe sejam transmitidos de pessoa para pessoa e possam causar sintomas semelhantes, os dois vírus são muito diferentes e não se comportam da mesma maneira.\n\nA doença COVID-19 é causada por um novo vírus que se designa SARS-CoV-2 e a gripe é causada pelo vírus influenza que circula na população há muitas centenas de anos. Ao contrário da gripe, para a COVID-19 a população mundial não apresenta qualquer tipo de anticorpos protetores ou imunidade. Desta forma, toda a população é suscetível à doença. Enquanto que para a gripe existe uma vacina e antivirais específicos para o tratamento, para a COVID-19 ainda se encontram em desenvolvimento.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "A COVID-19 é o mesmo que gripe?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 124,
+      "answer": "Uma epidemia corresponde ao aumento considerável do número de casos de determinada doença, em várias regiões ou países, num determinado período de tempo.\n\nUma pandemia é a disseminação mundial de uma doença, que se espalhou por diferentes continentes, afetando geralmente um grande número de pessoas, com transmissão sustentada e na comunidade. Na maioria das vezes está associada a uma grande disrupção social e coloca sobre enorme pressão os serviços de saúde a nível global.\n\n## Como se transmite?",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Qual a diferença entre epidemia e pandemia?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 125,
+      "answer": "A COVID-19 transmite-se pessoa-a-pessoa por contacto próximo com pessoas infetadas pelo SARS-CoV-2 (transmissão direta), ou através do contacto com superfícies e objetos contaminados (transmissão indireta).\n\nA transmissão por contacto próximo ocorre principalmente através de gotículas que contêm partículas virais que são libertadas pelo nariz ou boca de pessoas infetadas, quando tossem ou espirram, e que podem atingir diretamente a boca, nariz e olhos de quem estiver próximo.\n\nAs gotículas podem depositar-se nos objetos ou superfícies que rodeiam a pessoa infetada e, desta forma, infetar outras pessoas quando tocam com as mãos nestes objetos ou superfícies, tocando depois nos seus olhos, nariz ou boca.\n\nExistem também evidências sugerindo que a transmissão pode ocorrer de uma pessoa infetada cerca de dois dias antes de manifestar sintomas.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Como se transmite?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 126,
+      "answer": "Atualmente, estima-se que o período de incubação da doença (tempo decorrido desde a exposição ao vírus até ao aparecimento de sintomas) seja entre 1 e 14 dias.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Qual é o período de incubação?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 127,
+      "answer": "Transmissão comunitária significa que o vírus circula na comunidade sem que seja possível identificar a origem de todas as cadeias de transmissão.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O que quer dizer \"transmissão comunitária\"?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 128,
+      "answer": "A pessoa pode transmitir a infeção cerca de um a dois dias antes do aparecimento dos sintomas, no entanto, a pessoa é mais infeciosa durante o período sintomático, mesmo que os sintomas sejam leves e muito inespecíficos.\n\nEstima-se que o período infecioso dure de 7 a 12 dias em casos moderados e até duas semanas, em média, em casos graves.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Antes do aparecimento de sintomas, a pessoa pode transmitir a infeção?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 129,
+      "answer": "O risco de transmissão por SARS-CoV-2 a partir das fezes de uma pessoa infetada parece ser reduzido. Embora esta seja uma via de excreção do vírus, não parece ser uma via preferencial de transmissão.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O SARS-CoV-2 pode ser transmitido através das fezes?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 130,
+      "answer": "Atualmente, não há evidência que suporte a transmissão do SARS-CoV-2 pelos alimentos.\n\nPorém, aplicando o princípio da precaução, a manutenção e o reforço das boas práticas de higiene e segurança alimentar durante a manipulação, preparação e coinfecção dos alimentos é recomendada.\n\nAssumindo o princípio da precaução, a OMS publicou no seu site algumas recomendações relativas às boas práticas de higiene e segurança alimentar assim como, a nível nacional, a Autoridade de Segurança Alimentar e Económica (ASAE).\n\nDestas orientações relativas à preparação, confeção e consumo de alimentos, destaca-se o reforço das seguintes boas práticas de higiene:\n\n*   Lavagem frequente e prolongada das mãos (com água e sabão durante 20 segundos), seguida de secagem apropriada evitando a contaminação cruzada (por exemplo fechar a torneira com um toalhete de papel ao invés da mão que a abriu enquanto suja);\n\n*   Desinfeção apropriada das bancadas de trabalho e das mesas com produtos apropriados;\n\n*   Evitar a contaminação entre comida crua e cozinhada;\n\n*   Cozinhar e “empratar” a comida a temperaturas apropriadas e lavar adequadamente os alimentos crus;\n\n*   Evitar partilhar comida ou objetos entre pessoas durante a sua preparação, confeção e consumo.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "A COVID-19 pode ser transmitida através de alimentos, incluindo os refrigerados e congelados?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 131,
+      "answer": "De momento, não há evidência de que a propagação da COVID-19 irá diminuir quando o clima ficar mais quente.\n\nAinda não é conhecido de que forma o clima ou a temperatura afetam a propagação do SARS-CoV-2.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O clima quente vai parar o surto de COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 132,
+      "answer": "O vírus pode sobreviver em superfícies durante horas ou até dias, se estas superfícies não forem limpas e desinfetadas com frequência.\n\nO tempo que o vírus persiste nas superfícies pode variar sob diferentes condições (por exemplo, tipo de superfície, temperatura ou humidade do ambiente e a carga viral inicial que originou a exposição). Estudos recentes mostram que o SARS-CoV-2 se pode manter viável em superfícies como plástico ou metal por um período máximo de cerca de 72 horas e em aerossóis por um período máximo de 3h. Em superfícies mais porosas como cartão, o SARS-CoV-2 pode manter-se viável por um período de 24h.\n\nNa nossa própria casa ou em espaços públicos a frequência de limpeza deve ser aumentada, precisamente para que não haja acumulação de vírus nas superfícies. Deve utilizar-se detergente e desinfetante comum de uso doméstico (por exemplo: lixívia ou álcool).",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Quanto tempo o vírus persiste numa superfície?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 133,
+      "answer": "O dinheiro muda de mãos centenas ou até milhares de vezes durante a circulação, encontrando-se entre os objetos que, se for contaminado com vírus, ou outros microorganismos (como por exemplo, bactérias) pode servir de veículo de transmissão. Não será, no entanto, uma forma de transmissão comum da COVID-19. A higiene das mãos quando se manipula o dinheiro é uma boa prática que, independentemente do atual contexto de pandemia, deve ser sempre aplicada.\n\n## Quem está em risco?",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O dinheiro é um veículo de transmissão da COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 134,
+      "answer": "Um contacto (próximo) de um caso de COVID-19 é alguém que esteve exposto a um caso confirmado, ou a material biológico de um caso confirmado, dentro do período de transmissibilidade.\n\nOs contactos de casos confirmados são classificados de acordo com o risco de infeção, associado ao nível de exposição, em exposição de alto e baixo risco. Esta classificação irá determinar o tipo de vigilância e de medidas a implementar.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O que é um Contacto Próximo?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 135,
+      "answer": "O vírus não tem nacionalidade, idade ou género, por isso todos corremos o risco de contrair a COVID-19.\n\nAinda assim, as pessoas que correm maior risco de doença grave por COVID-19 são os idosos e pessoas com doenças crónicas (ex.: doenças cardíacas e doenças pulmonares).",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Quem está em risco de doença por COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 136,
+      "answer": "80% dos casos de COVID-19 apresentam doença ligeira, isto é, sintomas ligeiros, nomeadamente, febre, rinorreia (pingo no nariz), cefaleia (dores de cabeça) e mialgias (dores no corpo).\n\nApenas 15% dos casos apresentam um quadro grave, com pneumonia, dificuldade respiratória, com necessidade de internamento e 5% podem eventualmente precisar de cuidados intensivos com necessidade de ventilação.\n\nA maioria dos óbitos são verificados nas pessoas mais idosas e com outras comorbilidades (outras doenças crónicas).",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Qual é a percentagem de doença ligeira e grave por COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 137,
+      "answer": "Nem todos os casos confirmados de COVID-19 necessitam de internamento, desde que apresentem um quadro clínico ligeiro e estável, tenham condições para permanecer em casa e esteja garantido o acompanhamento da equipa de saúde no domicílio.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "É necessário o internamento em todos os casos de COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 138,
+      "answer": "Os grupos de Risco para COVID 19 incluem:\n\n*   Pessoas idosas;\n\n*   Pessoas com doenças crónicas - doença cardíaca, pulmonar, neoplasias ou hipertensão arterial, entre outras;\n\n*   Pessoas com compromisso do sistema imunitário (a fazer tratamentos de quimioterapia, tratamentos para doenças auto-imunes (artrite reumatóide, lúpus, esclerose múltipla ou algumas doenças inflamatórias do intestino), infeção VIH/sida ou doentes transplantados).",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Quais são os grupos considerados de risco para a COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 139,
+      "answer": "Neste momento não se recomenda que as crianças estejam com os avós por serem considerados um grupo vulnerável. Apesar de as crianças serem menos afetadas por esta doença e de terem sintomas mais ligeiros, podem transmitir o vírus a outros.\n\nÉ preferível que crianças e avós vão falando através de redes sociais, chats e por telemóvel durante esta fase de transmissão da doença.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Posso deixar as crianças com os avós?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 140,
+      "answer": "Não existem estudos conclusivos. Contudo, é sabido que fumar diminui a imunidade e aumenta o risco de contrair infeções pulmonares bacterianas e virais, de gripe sazonal e de tuberculose, pelo que é expectável que esse risco aumentado também exista relativamente à COVID-19.\n\nPor outro lado, é possível que as pessoas que fumam ou usam cigarros de aquecimento ou eletrónicos sejam mais vulneráveis ao novo coronavirus (SARS-CoV-2) e à Covid-19, pois, durante o ato de fumar, os dedos, os cigarros ou os bocais eventualmente contaminados podem entrar em contacto com a boca, o que aumenta a possibilidade de transmissão do vírus. O uso de cachimbos de água (shisha), pode envolver a partilha de bocais, o que poderá facilitar, também, a transmissão do novo coronavírus.\n\nPara diminuir esse risco lave as mãos antes e depois de fumar, lave os bocais e desinfete os aparelhos de aquecimento ou os cigarros eletrónicos com uma solução à base de álcool após a compra e frequentemente após a utilização. Não partilhe cigarros ou equipamentos. Os bocais dos cachimbos de água nunca devem ser partilhados, devendo ser devidamente higienizados após a sua utilização.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "As pessoas que fumam ou usam cigarros de aquecimento ou eletrónicos têm maior risco de contrair a COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 141,
+      "answer": "Embora ainda nem tudo seja conhecido acerca da COVID-19, pessoas com idade mais avançada, patologias crónicas cardiovasculares, respiratórias ou diabetes apresentam maior risco de desenvolver complicações graves no caso de serem infetadas pelo novo coronavírus.\n\nAs pessoas fumadoras têm maior probabilidade de sofrer destas doenças em resultado da exposição ao fumo do tabaco. No caso de serem infetadas pelo novo coronavírus poderão apresentar maior risco de sofrer complicações graves, pois fumar lesa os tecidos pulmonares e aumenta a produção de muco a nível da árvore brônquica, o que contribui para aumentar a dificuldade respiratória. Por outro lado, fumar diminui a imunidade, tornando mais lenta e difícil a luta contra a infeção e a cura da doença.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "As pessoas que fumam têm maior risco de desenvolver complicações graves se contraírem a COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 142,
+      "answer": "Ainda não são conhecidos estudos nesta área. Contudo, deixar de fumar ou usar cigarros de aquecimento ou eletrónicos permite eliminar o manuseamento dos cigarros e o eventual toque dos dedos, eventualmente contaminados, na boca.\n\nPor outro lado, é possível que se consigam gerir melhor as condições de doença crónica preexistentes no caso de haver infeção, porque o abandono do tabaco tem um impacto positivo nos níveis de oxigénio no sangue, na redução da sintomatologia respiratória e no sistema cardiovascular, que vão melhorando com o passar do tempo. Gerir melhor as doenças crónicas pré-existentes pode aumentar a capacidade dos pacientes com COVID-19 para responderem melhor à infecção e reduzir o risco de complicações mais graves.\n\n## Quais as medidas de prevenção?",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Parar de fumar diminui o risco de contrair a COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 143,
+      "answer": "Duas das medidas mais efetivas são a higiene das mãos e a etiqueta respiratória.\n\nA higiene das mãos deve ser feita várias vezes ao longo do dia, antes e depois de comer, de ir à casa de banho, ao chegar a casa ou ao trabalho, ou sempre que se justifique. Deve lavar as mãos com água e sabão durante pelo menos 20 segundos, esfregando sequencialmente as palmas, dorso, cada um dos dedos e o pulso, secando-as bem no final. Caso não tenha acesso a água e sabão, desinfete as mãos com solução à base de álcool com 70% de concentração. Não se esqueça de remover anéis, pulseiras, relógios, ou outros objetos, antes da lavagem das mãos. Estes adereços deverão também ser higienizados após a sua utilização.\n\nA etiqueta respiratória são medidas a aplicar para evitar transmitir gotículas respiratórias: quando tossir ou espirrar, proteja o nariz e a boca com um lenço descartável ou com o antebraço. Após a utilização do lenço descartável, deite-o imediatamente no lixo. De seguida lave de imediato, as mãos. Caso tenha utilizado o braço, lave-o, ou à camisola, assim que possível.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O que são medidas de higiene e etiqueta respiratória?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 144,
+      "answer": "Permanecer em casa e evitar o contacto próximo com outras pessoas, dentro do possível.\n\nNão deve dirigir-se ao trabalho, à escola ou a espaços públicos, nem utilizar transporte públicos.\n\nNão deve receber visitas em casa, opte por falar por telefone ou internet.\n\nSe precisar de se deslocar a um serviço de saúde deve ligar antes e planear a sua deslocação, ou em caso de urgência contactar o 112.\n\nMantenha-se atento ao eventual aparecimento de sinais ou sintomas de infeção respiratória. Se ficar doente, permaneça em casa e ligue para o SNS24 (808 24 24 24).",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O que é que as pessoas em risco de doença grave por COVID-19 devem fazer?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 145,
+      "answer": "O uso de máscaras é uma medida adicional de proteção, que deve ser complementar às medidas de distanciamento, higiene das mãos e etiqueta respiratória. A sua utilização é obrigatória em espaços públicos fechados, como transportes públicos ou estabelecimentos comerciais.\n\nPara utilizar máscara de forma efetiva deve garantir que a coloca e remove em segurança.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Tenho de usar máscara para me proteger?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 146,
+      "answer": "Colocar a máscara:\n\n*   Lave as mãos com água e sabão ou com uma solução à base de álcool (antes de colocar a máscara);\n\n*   Colocar a máscara na posição correta. A borda dobrável deve estar para cima e a parte colorida para fora;\n\n*   Segurar a máscara pelas linhas de suporte/elásticos e adaptar a cada orelha;\n\n*   Ajustar a máscara junto ao nariz e queixo, sem tocar na face da máscara.\n\nRetirar a máscara:\n\n*   Lavar as mãos com água e sabão ou solução à base de álcool;\n\n*   Retirar a máscara apenas segurando nas linhas de suporte/elásticos;\n\n*   Manter a máscara longe do rosto e da roupa, para evitar tocar em superfícies potencialmente contaminadas da máscara;\n\n*   Colocar a máscara no recipiente adequado e lavar novamente as mãos.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Como devo colocar e retirar uma máscara?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 147,
+      "answer": "A viseira deve ser usada complementarmente com um método barreira que permita proteger a boca e o nariz.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Quando é recomendado o uso de máscara, esta pode ser substituída por viseira?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 148,
+      "answer": "Sim. Os ecrãs e os teclados devem ser limpos frequentemente, de preferência com toalhetes de limpeza e desinfeção rápida à base de álcool ou outro desinfetante com ação contra o vírus (ação virucida).",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Devo desinfetar tablets, smartphones e computadores?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 149,
+      "answer": "Lave muito bem as mãos antes e enquanto está a confecionar as refeições. Tenha o cuidado de lavar adequadamente os alimentos crus e cozinhar e empratar a comida a temperaturas adequadas.\n\nNão partilhe comida ou objetos entre pessoas durante a sua preparação, confeção e consumo. Em todos os momentos, adote as medidas de etiqueta respiratória. Evite a contaminação entre comida crua e cozinhada.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Que cuidados devo ter na preparação e confeção de alimentos?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 150,
+      "answer": "Se vai viajar em transportes, o que se recomenda é que:\n\n· Garanta uma distância mínima das outras pessoas;\n\n· Se posicione costas com costas face a outras pessoas;\n\n· É obrigatório o uso de máscara nos transportes públicos;\n\n· Evite levar as mãos à boca, olhos ou nariz;\n\n· Vire a cara para o lado, se alguém estiver a tossir à sua frente e peça à pessoa que está a tossir que o faça para um lenço ou para o braço;\n\n· Desinfete as suas mãos com uma solução à base de álcool ou lave as mãos assim que possível;\n\n· Se o transporte estiver lotado pode, sempre que possível, aguardar pelo próximo.\n\n## Preciso de um médico. E agora?",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O que se recomenda a quem tem que andar de metro/autocarro?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 151,
+      "answer": "Os utentes sem suspeita de COVID-19 devem contactar previamente o seu centro de saúde por telefone ou por e-mail. Contudo em caso de necessidade ou por indicação do profissional de saúde, devem deslocar-se aos serviços de saúde, uma vez que estes têm circuitos separados para doentes com COVID-19.\n\nOs utentes com suspeita de COVID-19 devem contactar o SNS24.\n\nEm caso de urgência deve ser contactado o 112.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Os utentes devem contactar os CSP diretamente ou apenas através do SNS24?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 152,
+      "answer": "O número de telefone da sua unidade de saúde pode ser facilmente encontrado na [internet](https://www.sns.gov.pt/sns/pesquisa-prestadores/) ou ligando para o 118.\n\n## Retoma das atividades. E agora?",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "No caso de contactarem diretamente, onde podem obter os contactos? Há algum diretório?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 153,
+      "answer": "O faseamento e horários para a reabertura dos estabelecimentos/ empresas/ serviços foi definido pelo Governo em diplomas próprios. A permissão de abertura faseada dos diferentes estabelecimentos/empresas/serviços e o horário em que podem operar são definidos pelo Governo em diplomas próprios.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Quando posso abrir o meu estabelecimento/ empresa/serviço e qual o horário recomendado?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 154,
+      "answer": "Uma boa prática perante a abertura dos estabelecimentos é a elaboração de planos de contingência, isto é, determinar que procedimentos devem ser seguidos perante a identificação de um caso suspeito de COVID-19.\n\nNão há qualquer obrigatoriedade em publicar o plano de contingência, mas todos os colaboradores dos estabelecimentos/empresas devem conhecer os procedimentos a tomar perante a identificação de um caso suspeito de COVID-19.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "É obrigatório elaborar um plano de contingência sobre os procedimentos a tomar perante a identificação de um caso suspeito de COVID-19? Este deve ser público?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 155,
+      "answer": "As áreas de “isolamento” visam impedir que colaboradores ou clientes sejam expostos ao SARS-CoV-2, quando se identifica que uma pessoa tem sintomas compatíveis com a doença. Tal como referido na Orientação nº 006/2020 a área de “isolamento” não tem de ser uma sala ou um gabinete, podendo ser uma secção ou zona, desde que cumpra o objetivo de separar o caso suspeito das restantes pessoas do estabelecimento/empresa. A pessoa com sintomas deve apenas ser mantida na área de “isolamento”, com máscara cirúrgica, até serem acionados os devidos meios - telefonema para o SNS24 e cumprimento das orientações emanadas por esta linha. Consulte as [Orientações](https://covid19.min-saude.pt/orientacoes/).",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Quando não for possível ter uma sala dedicada/própria para o “isolamento” num estabelecimento/empresa, como se deve proceder?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 156,
+      "answer": "As figuras servem somente como sugestões para disposição das mesas e clientes. Esta sugestão deve ser adaptada às especificidades dos locais de restauração e bebidas e às características dos utilizadores (por exemplo, se coabitantes ou não). Consulte as [Orientações](https://covid19.min-saude.pt/orientacoes/).",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "É obrigatória a redução da lotação máxima dos estabelecimentos de restauração e bebidas exemplificada no anexo da Orientação nº 023/2020?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 157,
+      "answer": "A lotação máxima permitida e a afixação na entrada nos diferentes estabelecimentos são definidas pelo Governo através de diplomas próprios e devem seguir a legislação em vigor.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Qual é a lotação máxima dos estabelecimentos de restauração e bebida? Deve estar afixada na entrada?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 158,
+      "answer": "Os corredores de passagem devem garantir o distanciamento recomendado pela Direção-Geral da Saúde entre clientes que se encontrem sentados. Visto o tempo de exposição entre um cliente que circula e um cliente sentado ser limitado, a distância nestes corredores não tem de ser de 4 metros. Não obstante o anteriormente descrito, devem ser evitadas filas nos corredores de passagem (por exemplo, para o pagamento ou para o acesso às instalações sanitárias) uma vez que há o aumento do tempo de exposição entre clientes que circulam e que estão sentados. Nos corredores onde se prevê filas, deve ser assegurada uma distância de 2 metros entre todas as pessoas.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Os corredores de passagem devem ter 4 metros para os clientes circularem (2 metros para cada lada do cliente em deslocação)?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 159,
+      "answer": "A barreira física pode ser um método que contribui para minimizar a transmissão entre pessoas durante o período em que as pessoas têm de estar sem a máscara. A barreira física permite também reduzir o distanciamento físico recomendado pela Direção-Geral da Saúde.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "As barreiras físicas, de materiais como acrílico, vidro ou cortinas, podem servir para reduzir o distanciamento de 2 metros?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 160,
+      "answer": "O uso de máscara pelos clientes deve ser considerado durante a circulação dentro de estabelecimentos fechados, quando não estão estiverem na sua mesa e/ou na refeição.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O uso de máscara pelos clientes é obrigatório na entrada e circulação pelo estabelecimento de restauração e bebidas?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 161,
+      "answer": "Os colaboradores devem usar máscara no atendimento a clientes, principalmente quando prestam um serviço a uma distância inferior ao recomendado pela Direção-Geral da Saúde. Sempre que houver contacto físico com o cliente, devem haver um reforço da higienização das mãos após o procedimento.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Como fazer quando os clientes, devido ao teor do serviço prestado, não podem usar máscara (por exemplo, tratamentos de rosto, cortar a barba, comer, etc)?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 162,
+      "answer": "A escolha do material utilizado deve ser feita pelo respetivo estabelecimento, tendo em conta as suas características. Já existem no mercado, estes consumíveis descartáveis sem plástico, com menor impacto ambiental.\n\nIndependentemente do tipo de material escolhido, o estabelecimento deve certificar-se que as normas de limpeza e higienização sejam cumpridas, seguindo as boas práticas e/ou orientações específicas.\n\nA lavagem da loiça deve ser feita na máquina de lavar loiça (forma preferencial) com um ciclo que contemple: pré-lavagem (para remover a sujidade/gorduras), seguido de lavagem com água mais quente, finalizando o ciclo com a desinfeção térmica.\n\nNão havendo máquina, a loiça poderá ser lavada à mão com água e detergente, imersa em solução de hipoclorito de sódio a 0,05% durante pelo menos 5 minutos, enxaguando de seguida com a água à maior temperatura possível e deixando secar ao ar - não usar panos para secagem.\n\n## Estou em isolamento. E agora?",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Para servir alimentos ou bebida deve ser dada preferência aos materiais descartáveis ou pode continuar a usar-se loiça? É possível lavar a loiça sem máquina?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 163,
+      "answer": "Deve permanecer em casa. Não deve dirigir-se ao trabalho, à escola ou a espaços públicos. Permaneça numa divisão própria e evite contactar com outros em espaços comuns. Não partilhe pratos, copos, utensílios de cozinha, lençóis ou outros objetos pessoais.\n\nQuando estiver com outras pessoas, utilize máscara. Cumpra as recomendações de lavagem das mãos e de etiqueta respiratória. Monitorize os sintomas e coloque os seus resíduos num saco próprio.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Quais os cuidados a ter em isolamento?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 164,
+      "answer": "Deve ser evitado o contacto com a pessoa com sintomas, especialmente se pertencer aos grupos vulneráveis: idosos, doentes crónicos, imunossuprimidos e grávidas. Preferencialmente, deve ser uma única pessoa a cuidar de quem está doente.\n\nApós o contacto com o paciente ou com o seu espaço, lave as mãos com sabão e água ou com uma solução à base e álcool. Desinfete com frequência torneiras, interruptores e maçanetas das portas, especialmente se a pessoa doente usar espaços comuns.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O que deve ter em conta os outros membros da casa?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 165,
+      "answer": "Não. Apenas deve frequentar a habitação quem coabitar com a pessoa com COVID-19. Em caso de necessidade de contacto urgente com alguém que não coabite com a pessoa em isolamento, o contacto deve ser feito por telefone.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Se estiver em isolamento, pode receber pessoas em casa?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 166,
+      "answer": "As pessoas que estão em isolamento não devem fazer deslocações para o trabalho, escola, espaços públicos ou outros locais; receber visitas em casa ou ter contactos desnecessários, sobretudo com pessoas mais velhas ou com doenças crónicas; utilizar espaços comuns com outras pessoas presentes, incluindo nos períodos de refeições; partilhar artigos de higiene pessoal; partilhar a utilização de objetos, se tal não for possível, desinfete os equipamentos antes e depois de cada utilização e uso um caixote de lixo só para si.\n\n## Estigma",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "O que não posso fazer em isolamento?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 167,
+      "answer": "As pessoas podem estar preocupadas com amigos e familiares que vivem ou visitam áreas afetadas pela COVID-19. O medo e a ansiedade podem levar ao estigma social, por exemplo, em relação a chineses ou outros asiáticos, ou a pessoas em quarentena. \n\nO estigma refere-se à discriminação em relação a um grupo de pessoas, um lugar ou uma nação. Este está associado à falta de conhecimento sobre o modo de transmissão da COVID-19, à necessidade de atribuir culpa, ao medo da doença e da possível morte e aos boatos e mitos disseminados. \n\nO estigma provoca sofrimento, aumentando o medo ou a raiva em relação a pessoas comuns, em vez de haver um foco na doença que está a causar o problema.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Porque culpam ou evitam pessoas e grupos devido à COVID-19 (Estigmatização)?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 168,
+      "answer": "As pessoas podem combater o estigma e ajudar outras pessoas, fornecendo-lhes suporte social. O combate ao estigma pode ser feito através da aprendizagem e da partilha de factos sobre a COVID-19. \n\nDeve comunicar-se o facto de que os vírus não têm como alvos grupos raciais ou étnicos específicos, bem como o modo de transmissão da COVID-19.\n\n## Gravidez",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Como é que as pessoas podem ajudar a acabar com o estigma relacionado com a COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 169,
+      "answer": "Nos trabalhos científicos publicados, não existe informação sobre a suscetibilidade de mulheres grávidas à COVID-19. As grávidas sofrem alterações imunológicas e fisiológicas que as podem tornar mais suscetíveis a infeções respiratórias virais, incluindo a COVID-19. Durante a gravidez, as mulheres também podem estar em risco de doença grave, morbilidade ou mortalidade em comparação com a população em geral, como observado em casos de outras infeções relacionadas com coronavírus [incluindo coronavírus da síndrome respiratória aguda grave (SARS-CoV) e coronavírus da síndrome respiratória do Médio Oriente (MERS- CoV)] e outras infeções respiratórias virais, como a gripe (influenza).\n\nAs mulheres grávidas devem empenhar-se em ações preventivas habituais para evitar infeções, tais como lavar as mãos frequentemente e evitar contacto com as pessoas doentes, ou casos suspeitos que estejam sob vigilância. Devem respeitar a distância recomendada entre pessoas próximas (1,5 a 2 metros).",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "As mulheres grávidas são mais suscetíveis à infeção ou têm maior risco de doenças graves, morbidade ou mortalidade com a COVID-19, em comparação com o público em geral?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 170,
+      "answer": "Não temos informações sobre resultados adversos da gravidez em mulheres grávidas com COVID-19. Foi observada perda gestacional, incluindo aborto espontâneo e nado-morto, em casos de infeção por outros coronavírus [SARS-CoV e MERS-CoV] durante a gravidez. Sabe-se que a febre alta durante o primeiro trimestre da gravidez pode aumentar o risco de certos defeitos congénitos.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "As mulheres grávidas com COVID-19 têm risco aumentado de desfecho adverso na gravidez?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 171,
+      "answer": "As profissionais de saúde grávidas devem seguir as diretivas de avaliação de risco e controlo de infeção destinadas a profissionais de saúde expostos a pacientes com suspeita ou confirmação de COVID-19. A adesão às práticas recomendadas de prevenção e controle de infeção é uma parte importante da proteção de todos os profissionais de saúde em ambientes de saúde. As informações sobre COVID-19 na gravidez são muito limitadas; os serviços podem querer considerar a limitação da exposição da profissional de saúde grávida a pacientes com COVID-19 (confirmado ou suspeito), especialmente durante a execução de procedimentos de maior risco (por exemplo, procedimentos que geram a produção de partículas de aerossóis), se possível, com base na disponibilidade de pessoal.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "As profissionais de saúde grávidas correm maior risco de resultados adversos se cuidarem de pacientes com COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 172,
+      "answer": "Pensa-se que o vírus que causa a COVID-19 se espalha principalmente por contato próximo com uma pessoa infetada através de gotículas respiratórias. Ainda não se sabe se uma mulher grávida com COVID-19 pode transmitir o vírus que causa a COVID-19 ao feto ou ao recém-nascido por outras vias de transmissão vertical (antes, durante ou após o parto). No entanto, em séries limitadas de casos recentes de bebés nascidos de mães com COVID-19 publicados na literatura revista por pares, existem descritos dois casos com resultados positivos para a infeção por COVID-19, um recém-nascido nas primeiras 30h e o segundo nas 48 h, mas não é certo qual a via de contágio. Em estudos retrospetivos de uma série pequena de casos, o vírus não foi detetado em amostras de líquido amniótico, sangue do cordão ou leite materno. \n\nÉ limitada a informação disponível sobre a transmissão vertical relativamente a outros coronavírus (MERS-CoV e SARS-CoV), mas a transmissão vertical não foi relatada para essas infeções.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "As mulheres grávidas com COVID-19 podem transmitir o vírus ao feto ou ao recém-nascido (isto é, transmissão vertical)?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 173,
+      "answer": "Com base num número limitado de casos reportados, foram observadas complicações em crianças (por exemplo, parto prematuro) em bebés nascidos de mães infetadas com COVID-19 durante a gravidez. No entanto, não é claro que essas complicações estejam relacionadas com a infeção materna e, neste momento, o risco de complicações nas crianças não é conhecido. Tendo em conta que os dados disponíveis relativamente à COVID-19 durante a gravidez são limitados, o conhecimentos das complicações relacionadas com outras infeções respiratórias virais podem fornecer algumas informações. Por exemplo, outras infeções virais respiratórias que ocorrem durante a gravidez, como a gripe, têm sido associadas a complicações neonatais, incluindo baixo peso ao nascer e prematuridade. Além disso, ter uma constipação ou gripe com febre alta no início da gravidez pode aumentar o risco de certas malformações congénitas. \n\nMulheres com outras infeções por coronavírus, SARS-CoV e MERS-CoV, durante a gravidez, têm tido bebés prematuros e/ou pequenos para a idade gestacional.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "As crianças nascidas de mães infetadas com COVID-19 durante a gravidez correm maior risco de terem complicações?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 174,
+      "answer": "No momento, não há informações sobre os efeitos a longo prazo na saúde nem para bebés com COVID-19 nem para os que estiveram expostos no útero à COVID-19. Em geral, a prematuridade e o baixo peso ao nascer estão associados a complicações de saúde a longo prazo.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Qual é o risco de que a existência da COVID-19 numa mulher grávida ou num recém-nascido possa ter efeitos a longo prazo na saúde e no desenvolvimento infantil que venham a requerer apoio clínico para além da infância?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 175,
+      "answer": "A transmissão de pessoa a pessoa por contato próximo com uma pessoa com COVID-19 confirmado ocorre principalmente através de gotículas respiratórias produzidas quando uma pessoa com infeção tosse ou espirra.\n\n Em séries limitadas de casos relatados até ao momento, não foi encontrada evidência de vírus no leite materno de mulheres com COVID-19. Não há informação disponível sobre a transmissão do vírus que causa a COVID-19 através do leite materno (isto é, se o vírus infecioso está presente no leite materno de uma mulher infetada).\n\nEm relatos limitados de mulheres lactantes infetadas com SARS-CoV, o vírus não foi detetado no leite; no entanto, foram detetados em pelo menos uma amostra de anticorpos contra SARS-CoV. \n\n## Testes e tratamentos",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "A doença materna com COVID-19 durante o período de aleitamento materno está associada a um risco potencial para uma criança que é amamentada?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 176,
+      "answer": "O tratamento para a infeção por este novo coronavírus é dirigido aos sinais e sintomas que os doentes apresentam e tem como objetivo proporcionar alívio e maior conforto aos doentes.\n\nÀ data, considerando o conhecimento científico atual e as recomendações da OMS, encontram-se em investigação, algumas estratégias terapêuticas apontadas como potenciais candidatos terapêuticos.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Qual é o tratamento?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 177,
+      "answer": "Não, os antibióticos são dirigidos a bactérias, não tendo efeito contra vírus. A COVID-19 é provocada por um vírus, o SARS-CoV-2, e, como tal, os antibióticos não são efetivos na prevenção ou tratamento. O uso indevido e sem indicação médica de antibióticos poderá contribuir para o aumento das resistências a antimicrobianos (antibióticos) com efeito negativo para a saúde individual e coletiva.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Os antibióticos são efetivos a prevenir e tratar a COVID-19?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 178,
+      "answer": "Em actualização.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Existe uma vacina?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 179,
+      "answer": "O doente ou seu representante, após receber a requisição do teste de COVID-19 deve:\n\n• Contactar telefonicamente o laboratório onde pretende realizar o teste de COVID-19\n\n• Agendar a realização do teste de COVID-19\n\nA colheita das amostras deve ser realizada no domicílio ou pontos de colheita destinados ao efeito conforme a lista de laboratórios.\n\nA realização dos testes laboratoriais deverá ser realizada no prazo máximo de 48 horas, após contacto pelo doente ou seu representante.",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Onde posso fazer o teste?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    },
+    {
+      "id": 180,
+      "answer": "**Informação aos viajantes**\n\nO governo português tem vindo a tomar todas as medidas de saúde pública necessárias para proteção de toda a população e com [impactos nas viagens](https://www.visitportugal.com/pt-pt/content/covid-19-medidas-implementadas-em-portugal) de e para o território de Portugal Continental e Regiões Autónomas.\n\nAs viagens para fora de Portugal devem ser ponderadas devido à situação atual da pandemia no mundo. \n\nAntes de viajar, deverá informar-se sobre as condições de entrada, restrições e atual situação da [COVID-19](https://www.sns24.gov.pt/tema/doencas-infecciosas/covid-19/) no país de destino da viagem e também o [site da União Europeia](https://reopen.europa.eu/pt)\n\nPara reforço da informação e assistência aos viajantes portugueses, o Ministério dos Negócios Estrangeiros criou a linha de apoio +351 217 929 755 e o email covid19@mne.pt, direcionado a situações de dificuldade de regresso ao território nacional ou necessidade de serviços consulares de locais, em países condicionados por medidas de restrição à circulação e atividade relacionadas com o COVID-19.          \n\nDeverá assim acompanhar a atualização de informação disponibilizada também pelo Ministério dos Negócios Estrangeiros com recurso às informações da área dos [conselhos aos viajantes e emigrantes](https://www.portaldascomunidades.mne.pt/pt/covid-19-viagens-para-portugal), podendo ainda esclarecer algumas dúvidas gerais sobre viagens e vistos.\n\nCaso tenha de viajar ou esteja fora de Portugal, registe-se na aplicação móvel gratuita “Registo Viajante”, disponível para dispositivos Android e IOS, permitindo ser imediatamente localizado e contactado em caso de emergência, como catástrofes naturais, acidentes ou atentados. Pode igualmente registar-se no Formulário Registo Viajante.\n\nEm atualização",
+      "source": "https://covid19.min-saude.pt/category/perguntas-frequentes/",
+      "questions": [
+        "Devo viajar?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-01-13T14:40:54.821+00:00",
+      "isDocumentText": false
+    }
+  ]
+}

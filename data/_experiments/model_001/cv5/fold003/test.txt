@@ -1,0 +1,24 @@
+Label	Weight	Text
+l_covid19	1	exit
+l_covid19	1	world
+l_covid19	1	cancel booking
+None	1	book a hotel in new york
+q_sample_qna	1	Quais são os grupos considerados de risco para o COVID-19
+q_sample_qna	1	O que são medidas de higiene e etiqueta respiratória
+q_sample_qna	1	Como se transmite
+q_sample_qna	1	Já houve algum surto com Coronavírus em anos anteriores
+q_sample_qna	1	O uso de máscara pelos clientes é obrigatório na entrada e circulação pelo estabelecimento de restauração e bebidas
+q_sample_qna	1	O que não posso fazer em isolamento
+q_sample_qna	1	Os corredores de passagem devem ter 4 metros para os clientes circularem (2 metros para cada lada do cliente em deslocação)
+q_sample_qna	1	Como é que as pessoas podem ajudar a acabar com o estigma relacionado com a COVID-19
+q_sample_qna	1	As mulheres grávidas com COVID-19 têm risco aumentado de desfecho adverso na gravidez
+q_sample_qna	1	Os fumadores estão em maior risco de doença grave por COVID-19
+q_sample_qna	1	Há risco de transmissão do COVID-19 se partilhar cigarros, bocais de cachimbos de água ou cigarros eletrónicos
+q_sample_qna	1	Onde encontrar a lista de áreas dedicadas para COVID-19, bem como os laboratórios referenciados (em atualização permanente)
+q_sample_qna	1	A COVID-19 pode ser transmitida através de alimentos, incluindo os refrigerados e congelados
+q_sample_qna	1	As crianças nascidas de mães infetadas com COVID-19 durante a gravidez correm maior risco de terem complicações
+q_sample_qna	1	Qual é a lotação máxima dos estabelecimentos de restauração e bebida? Deve estar afixada na entrada
+q_sample_qna	1	Os sintomas de COVID-19 são diferentes nas crianças e nos adultos
+q_sample_qna	1	Qual é o risco de que a existência da COVID-19 numa mulher grávida ou num recém-nascido possa ter efeitos a longo prazo na saúde e no desenvolvimento infantil que venham a requerer apoio clínico para além da infância
+q_sample_qna	1	Os antibióticos são efetivos a prevenir e tratar a COVID-19
+q_sample_qna	1	Qual é o risco de que a existência do COVID-19 numa mulher grávida ou num recém-nascido possa ter efeitos a longo prazo na saúde e no desenvolvimento infantil que venham a requerer apoio clínico para além da infância

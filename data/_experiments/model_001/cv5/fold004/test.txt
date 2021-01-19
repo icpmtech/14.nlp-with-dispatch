@@ -1,0 +1,24 @@
+Label	Weight	Text
+l_covid19	1	bye
+l_covid19	1	today status world
+l_covid19	1	status covid world
+None	1	find an airport near me
+q_sample_qna	1	Os antibióticos são efetivos a prevenir e tratar a COVID-19
+q_sample_qna	1	Qual é o risco de que a existência do COVID-19 numa mulher grávida ou num recém-nascido possa ter efeitos a longo prazo na saúde e no desenvolvimento infantil que venham a requerer apoio clínico para além da infância
+q_sample_qna	1	O COVID-19 pode ser transmitido através de alimentos, incluindo os refrigerados e congelados
+q_sample_qna	1	É obrigatória a redução da lotação máxima dos estabelecimentos de restauração e bebidas exemplificada no anexo da Orientação nº 023/2020
+q_sample_qna	1	As pessoas que fumam têm maior risco de desenvolver complicações graves se contraírem a COVID-19
+q_sample_qna	1	Qual é o período de incubação
+q_sample_qna	1	Devo desinfetar tablets, smartphones e computadores
+q_sample_qna	1	A COVID-19 é o mesmo que gripe
+q_sample_qna	1	Quais os sinais e sintomas
+q_sample_qna	1	No caso de contactarem diretamente, onde podem obter os contactos? Há algum diretório
+q_sample_qna	1	Porque culpam ou evitam pessoas e grupos devido ao COVID-19 (Estigmatização)
+q_sample_qna	1	Devo viajar
+q_sample_qna	1	Quais os cuidados a ter em isolamento
+q_sample_qna	1	s sintomas de COVID-19 são diferentes nas crianças e nos adultos
+q_sample_qna	1	Os utentes devem contactar os CSP diretamente ou apenas através do SNS24
+q_sample_qna	1	A doença materna com COVID-19 durante o período de aleitamento materno está associada a um risco potencial para uma criança que é amamentada
+q_sample_qna	1	O que devem ter em conta os outros membros da casa
+q_sample_qna	1	Gostaria de deixar de fumar. Como posso obter apoio
+q_sample_qna	1	As mulheres grávidas são mais suscetíveis à infeção ou têm maior risco de doenças graves, morbidade ou mortalidade com a COVID-19, em comparação com o público em geral

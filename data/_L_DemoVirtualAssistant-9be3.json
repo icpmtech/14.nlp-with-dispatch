@@ -1,0 +1,139 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "Cancel",
+      "features": []
+    },
+    {
+      "name": "Covi19Portugal",
+      "features": []
+    },
+    {
+      "name": "Covid19World",
+      "features": []
+    },
+    {
+      "name": "None",
+      "features": []
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "book a hotel in new york",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "book a restaurant",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "bye",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "cancel booking",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "covid19 portugal",
+      "intent": "Covi19Portugal",
+      "entities": []
+    },
+    {
+      "text": "current status of covid19 portugal",
+      "intent": "Covi19Portugal",
+      "entities": []
+    },
+    {
+      "text": "current status of covid19 world",
+      "intent": "Covid19World",
+      "entities": []
+    },
+    {
+      "text": "exit",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "find an airport near me",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i'd like to rent a car",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "ignore",
+      "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "live status of covid19 portugal",
+      "intent": "Covi19Portugal",
+      "entities": []
+    },
+    {
+      "text": "live status of covid19 world",
+      "intent": "Covid19World",
+      "entities": []
+    },
+    {
+      "text": "portugal",
+      "intent": "Covi19Portugal",
+      "entities": []
+    },
+    {
+      "text": "status covid world",
+      "intent": "Covid19World",
+      "entities": []
+    },
+    {
+      "text": "today status",
+      "intent": "Covi19Portugal",
+      "entities": []
+    },
+    {
+      "text": "today status world",
+      "intent": "Covid19World",
+      "entities": []
+    },
+    {
+      "text": "winter is coming",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "world",
+      "intent": "Covid19World",
+      "entities": []
+    },
+    {
+      "text": "world covid19",
+      "intent": "Covid19World",
+      "entities": []
+    }
+  ],
+  "versionId": "0.1_upgraded",
+  "name": "DemoVirtualAssistant-9be3",
+  "desc": "Luis Model for CoreBot",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": []
+}

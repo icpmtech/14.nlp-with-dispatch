@@ -1,0 +1,606 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "l_covid19"
+    },
+    {
+      "name": "q_sample_qna"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "live status of covid19 portugal",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "portugal",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "current status of covid19 portugal",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "live status of covid19 world",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "ignore",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "covid19 portugal",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "world covid19",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "current status of covid19 world",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "today status",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "exit",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "world",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "cancel booking",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "bye",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "today status world",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "status covid world",
+      "intent": "l_covid19",
+      "entities": []
+    },
+    {
+      "text": "receber encomendas de outros países é um risco",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "quais os sinais e sintomas associados à covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "as profissionais de saúde grávidas correm maior risco de resultados adversos se cuidarem de pacientes com covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "como é que as pessoas podem ajudar a acabar com o estigma relacionado com o covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que se recomenda a quem tem que andar de metro/autocarro",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "quanto tempo o vírus persiste numa superfície",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "como fazer quando os clientes, devido ao teor do serviço prestado, não podem usar máscara (por exemplo, tratamentos de rosto, cortar a barba, comer, etc)",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "quais são os grupos considerados de risco para a covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "que cuidados devo ter se estiver em isolamento",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que é o novo coronavírus",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que deve ter em conta os outros membros da casa",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "onde posso fazer o teste",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que é a quarentena (“isolamento profilático”) e o isolamento",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "qual a diferença entre epidemia e pandemia",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que quer dizer \"transmissão comunitária\"",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "antes do aparecimento de sintomas, a pessoa pode transmitir a infeção",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que é a covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o sars-cov-2 pode ser transmitido através das fezes",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "quem está em risco de doença por covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "as crianças e jovens diabéticos tipo 1 são considerados de risco",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "as mulheres grávidas com covid-19 podem transmitir o vírus ao feto ou ao recém-nascido (isto é, transmissão vertical)",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que quer dizer “transmissão comunitária”",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "se estiver em isolamento, pode receber pessoas em casa",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "posso deixar as crianças com os avós",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "existe uma vacina",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "tenho de usar máscara para me proteger",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "qual é o tratamento",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "é obrigatório elaborar um plano de contingência sobre os procedimentos a tomar perante a identificação de um caso suspeito de covid-19? este deve ser público",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "qual é a percentagem de doença ligeira e grave por covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o dinheiro é um veículo de transmissão da covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "as pessoas que fumam ou usam cigarros de aquecimento ou eletrónicos têm maior risco de contrair a covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que são os coronavírus",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "porque culpam ou evitam pessoas e grupos devido à covid-19 (estigmatização)",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "como devo colocar e retirar uma máscara",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "quando não for possível ter uma sala dedicada/própria para o “isolamento” num estabelecimento/empresa, como se deve proceder",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "quando posso abrir o meu estabelecimento/ empresa/serviço e qual o horário recomendado",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "um fumador que deixe os hábitos tabagísticos melhora a sua capacidade de resposta à infeção por covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "que cuidados devo ter na preparação e confeção de alimentos",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "qual a situação atual e o risco em portugal da covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "parar de fumar diminui o risco de contrair a covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o clima quente vai parar o surto de covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "quando é recomendado o uso de máscara, esta pode ser substituída por viseira",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "há uma temperatura mínima para lavar a roupa quando há um caso confirmado de covid-19 em casa",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "as mulheres grávidas são mais suscetíveis à infeção ou têm maior risco de doenças graves, morbidade ou mortalidade com o covid-19, em comparação com o público em geral",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "covid-19 é o mesmo que o sars-cov-2",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "qual é a origem do novo coronavírus",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "deixei de fumar e estou em risco de recair. o que devo fazer",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "se estiver em isolamento, posso receber pessoas em casa",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que é um contacto próximo",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "sars-cov-2 é o mesmo que covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "as barreiras físicas, de materiais como acrílico, vidro ou cortinas, podem servir para reduzir o distanciamento de 2 metros",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "para servir alimentos ou bebida deve ser dada preferência aos materiais descartáveis ou pode continuar a usar-se loiça? é possível lavar a loiça sem máquina",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "as pessoas que têm a doença ficam imunes",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que é que as pessoas em risco de doença grave por covid-19 devem fazer",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "é necessário o internamento em todos os casos de covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "como evitar o fumo ambiental em casa durante o período de confinamento",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "posso morrer de covid 19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "quais são os grupos considerados de risco para o covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que são medidas de higiene e etiqueta respiratória",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "como se transmite",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "já houve algum surto com coronavírus em anos anteriores",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o uso de máscara pelos clientes é obrigatório na entrada e circulação pelo estabelecimento de restauração e bebidas",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que não posso fazer em isolamento",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "os corredores de passagem devem ter 4 metros para os clientes circularem (2 metros para cada lada do cliente em deslocação)",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "como é que as pessoas podem ajudar a acabar com o estigma relacionado com a covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "as mulheres grávidas com covid-19 têm risco aumentado de desfecho adverso na gravidez",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "os fumadores estão em maior risco de doença grave por covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "há risco de transmissão do covid-19 se partilhar cigarros, bocais de cachimbos de água ou cigarros eletrónicos",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "onde encontrar a lista de áreas dedicadas para covid-19, bem como os laboratórios referenciados (em atualização permanente)",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "a covid-19 pode ser transmitida através de alimentos, incluindo os refrigerados e congelados",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "as crianças nascidas de mães infetadas com covid-19 durante a gravidez correm maior risco de terem complicações",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "qual é a lotação máxima dos estabelecimentos de restauração e bebida? deve estar afixada na entrada",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "os sintomas de covid-19 são diferentes nas crianças e nos adultos",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "qual é o risco de que a existência da covid-19 numa mulher grávida ou num recém-nascido possa ter efeitos a longo prazo na saúde e no desenvolvimento infantil que venham a requerer apoio clínico para além da infância",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "os antibióticos são efetivos a prevenir e tratar a covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "qual é o risco de que a existência do covid-19 numa mulher grávida ou num recém-nascido possa ter efeitos a longo prazo na saúde e no desenvolvimento infantil que venham a requerer apoio clínico para além da infância",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o covid-19 pode ser transmitido através de alimentos, incluindo os refrigerados e congelados",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "é obrigatória a redução da lotação máxima dos estabelecimentos de restauração e bebidas exemplificada no anexo da orientação nº 023/2020",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "as pessoas que fumam têm maior risco de desenvolver complicações graves se contraírem a covid-19",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "qual é o período de incubação",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "devo desinfetar tablets, smartphones e computadores",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "a covid-19 é o mesmo que gripe",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "quais os sinais e sintomas",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "no caso de contactarem diretamente, onde podem obter os contactos? há algum diretório",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "porque culpam ou evitam pessoas e grupos devido ao covid-19 (estigmatização)",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "devo viajar",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "quais os cuidados a ter em isolamento",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "s sintomas de covid-19 são diferentes nas crianças e nos adultos",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "os utentes devem contactar os csp diretamente ou apenas através do sns24",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "a doença materna com covid-19 durante o período de aleitamento materno está associada a um risco potencial para uma criança que é amamentada",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "o que devem ter em conta os outros membros da casa",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "gostaria de deixar de fumar. como posso obter apoio",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "as mulheres grávidas são mais suscetíveis à infeção ou têm maior risco de doenças graves, morbidade ou mortalidade com a covid-19, em comparação com o público em geral",
+      "intent": "q_sample_qna",
+      "entities": []
+    },
+    {
+      "text": "book a restaurant",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i'd like to rent a car",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "winter is coming",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "book a hotel in new york",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "find an airport near me",
+      "intent": "None",
+      "entities": []
+    }
+  ],
+  "versionId": "Dispatch",
+  "name": "Dispatcher",
+  "desc": "Dispatch model for Dispatcher",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    },
+    {
+      "name": "UseAllTrainingData",
+      "value": "true"
+    }
+  ]
+}

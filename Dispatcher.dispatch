@@ -1,0 +1,39 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_covid19",
+      "appId": "f203a318-1dda-4725-a0ae-18ab8da9b2cd",
+      "authoringKey": "f18fe538ef1247c187accea1d7a7adcc",
+      "version": "0.1_upgraded",
+      "region": "westus",
+      "type": "luis",
+      "name": "DemoVirtualAssistant-9be3",
+      "id": "1"
+    },
+    {
+      "intentName": "q_sample_qna",
+      "includePrompts": true,
+      "kbId": "fc6006dc-febb-43c4-831a-62759007cf8b",
+      "subscriptionKey": "cf5dfa8170f041c7bb9dc89d2ecfc8ce",
+      "type": "qna",
+      "name": "BTF21Bot",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "ca39a156-eecf-4a9b-a0e0-0cd90e5cff47",
+  "authoringKey": "f18fe538ef1247c187accea1d7a7adcc",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "Dispatcher"
+}
